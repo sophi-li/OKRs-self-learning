@@ -4,9 +4,8 @@ Sophia's self learning plan, Objectives and Key Results (OKR) style.
 
 ## Table of Contents
 - [What are OKRs?](#what-are-OKRs?)
-- [Why us OKRs?](#why-use-OKRs?)
-- [Online Resources for Building a Strong Programming Foundation](#Online-Resources-for-Building-a-Strong-Programming-Foundation)
-
+- [Why use OKRs?](#why-use-OKRs?)
+- [Building a Strong Programming Foundation using Online Resources](#Building-a-Strong-Programming-Foundation-using-Online-Resources)
 - [Career Resources](#career-resources)
 
 
@@ -17,7 +16,7 @@ Here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-w
 ## Why use OKRs?
 
 
-## Online Resources for Building a Strong Programming Foundation
+## Building a Strong Programming Foundation using Online Resources
 - [Codecademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [SQLZoo](https://sqlzoo.net/)
