@@ -25,8 +25,10 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Why use OKRs?](#why-use-OKRs?)
 - [How to use it](#How-to-use-it)
 - [Online Learning for a Strong Foundation](#Online-Learning-for-a-Strong-Foundation)
-- [Holistic Overview of Software Engineering](Holistic-Overview-of-Software-Engineering)
-- [Projects](Projects)
+- [Holistic Overview of Software Engineering](#Holistic-Overview-of-Software-Engineering)
+- [Online Communities](#Online-Communities)
+- [Conferences and Events](#Conferences-and-Events)
+- [Projects](#Projects)
 - [Job Boards](#job-boards)
 
 ## Why use OKRs?
@@ -63,6 +65,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [Dev.to](https://dev.to/)
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
 
+## Conferences and Events
 
 ## Projects
 Just start building something, *anything*! I got stuck on trying to build the next big thing, but that got me nowhere because I never got started since a large project with a million features seemed too daunting. Start small, which will allow you to build your skills and project size incrementally. 
