@@ -29,8 +29,9 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Online Communities](#Online-Communities)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
-- [Projects](#Projects)
 - [Reading List](#Reading-list)
+- [Projects](#Projects)
+- [Interview Prep Resources](#Interview-Prep-Resources)
 - [Job Boards](#job-boards)
 
 ## Why use OKRs?
@@ -70,7 +71,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
-- Google is your best friend! I find many events through searches like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
+- Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
 
 ## Questions for Coffee Chats
 Coffee chats are a great casual way to build your community, learn and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
@@ -78,16 +79,24 @@ Coffee chats are a great casual way to build your community, learn and hear firs
 - Can I get your feedback on X? 
 - What are some challenges you face in your work?
 - What is something new you are learning right now?
+- What do you enjoy doing outside of work?
 - Is there anything I can support you in? 
 
+## Reading List
+- [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
+
 ## Projects
-Just start building something, *anything*! I got stuck on trying to build the next big thing, but that got me nowhere because I never got started since a large project with a million features seemed too daunting. Start small, which will allow you to build your skills and project size incrementally. 
+Just start building something, *anything*! I got stuck on trying to build the next big thing, but that got me nowhere because I never got started since a large project with a million features seemed too daunting. Start small. This will allow you to build your skills and project size incrementally. 
 
 Some ideas for smaller projects:
 - Creating a Chrome Extension
 
-## Reading List
-- [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
+
+## Interview Prep Resources
+- [CodeWars](https://www.codewars.com/)
+- [Leetcode](https://leetcode.com/)
+- [Cracking the Coding Interview](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_3?crid=GRIW98JVWL8J&keywords=cracking+the+coding+interview&qid=1567581008&s=gateway&sprefix=cracking+the+%2Caps%2C217&sr=8-3)
+- [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
 
 ## Job Boards
 - [Apprenticeships.me](https://apprenticeships.me/)
