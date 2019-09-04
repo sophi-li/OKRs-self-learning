@@ -1,5 +1,5 @@
 # OKRs for Self Learning
-Sophia's self learning plan, OKR style. 
+Sophia's self learning plan, Objectives and Key Results (OKR) style. 
 
 
 ## Table of Contents
