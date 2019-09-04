@@ -61,7 +61,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 
 
 ## Projects
-Just start building something, <em>anything</em>! I got stuck on trying to build the next big thing, but that really got me stuck with doing nothing because a large project seemed so daunting. Start small, which will allow you to build your skills and skills incrementally. 
+Just start building something, *anything*! I got stuck on trying to build the next big thing, but that got me nowhere because I never got started since a large project with a million features seemed too daunting. Start small, which will allow you to build your skills and project size incrementally. 
 
 Some ideas for smaller projects:
 - Creating a Chrome Extension
