@@ -8,7 +8,7 @@ Objectives and Key Results (OKRs) are a strategic planning tool used by many tec
 
 To determine *objectives*, ask yourself, *"Where do you want to go?"*.
 
-**Key results** are measuraable and specific milestones that directly contribute to the objective. Key results are outcomes, not activities.
+**Key results** are measurable and specific milestones that directly contribute to the objective. Key results are outcomes, not activities.
 
 To determine *key results*, ask yourself, *"How will I pace myself to see if I am getting there?"*.
 
