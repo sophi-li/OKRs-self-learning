@@ -28,6 +28,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Holistic Overview of Software Engineering](#Holistic-Overview-of-Software-Engineering)
 - [Online Communities](#Online-Communities)
 - [Conferences and Events](#Conferences-and-Events)
+- [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Projects](#Projects)
 - [Job Boards](#job-boards)
 
@@ -66,6 +67,17 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
 
 ## Conferences and Events
+- [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
+- [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
+- Google is your best friend! I find many events through searches like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
+
+## Questions for Coffee Chats
+Coffee chats are a great casual way to build your community, learn and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
+- What does a day-to-day look like in your role?
+- Can I get your feedback on X? 
+- What are some challenges you face in your work?
+- What is something new you are learning right now?
+- Is there anything I can support you in? 
 
 ## Projects
 Just start building something, *anything*! I got stuck on trying to build the next big thing, but that got me nowhere because I never got started since a large project with a million features seemed too daunting. Start small, which will allow you to build your skills and project size incrementally. 
