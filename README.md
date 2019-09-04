@@ -24,7 +24,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [What are OKRs?](#what-are-OKRs?)
 - [Why use OKRs?](#why-use-OKRs?)
 - [How to use it](#How-to-use-it)
-- [Online Learning for a Strong Foundation](#Online-Learning-for-a-Strong-Foundation)
+- [Online Courses for a Strong Programming Foundation](#Online-Courses-for-a-Strong-Programming-Foundation)
 - [Holistic Overview of Software Engineering](#Holistic-Overview-of-Software-Engineering)
 - [Online Communities](#Online-Communities)
 - [Conferences and Events](#Conferences-and-Events)
@@ -52,10 +52,13 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 8. Reflect monthly and adjust as needed throughout the quarter. OKRs are not set in stone!
 9. Do a retrospective at the end of the quarter to apply learning to your next set of OKRs.
 
-## Online Learning for a Strong Foundation
+## Online Courses for a Strong Programming Foundation
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
+
+## Online Learning Resources
 - [SQLZoo](https://sqlzoo.net/)
+- [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Holistic Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
