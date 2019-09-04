@@ -6,7 +6,7 @@ Sophia's self learning plan, Objectives and Key Results (OKR) style.
 - [What are OKRs?](#what-are-OKRs?)
 - [Why us OKRs?](#why-use-OKRs?)
 - [Online Resources for Building a Strong Programming Foundation](#Online-Resources-for-Building-a-Strong-Programming-Foundation)
-- [Reading List (Books)](Reading-List-(Books))
+- [Reading List (Books)](Reading-List-(Books)-)
 - [Career Resource](#career-resources)
 
 
