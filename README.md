@@ -4,11 +4,11 @@ Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-
 ## What are OKRs?
 Objectives and Key Results (OKRs) are a strategic planning tool used by many tech organizations such as Google to establish cross functional team alignment, which ultimately helps move the needle closer to achieving the organization's mission.
 
-Objectives are ambitious goals. If your objectives make you feel uncomfortable, that's a sign you're setting up your OKRs with a healthy amount of rigor!
+**Objectives** are ambitious goals. If your objectives make you feel uncomfortable, that's a sign you're setting up your OKRs with a healthy amount of rigor!
 
 To determine *objectives*, ask yourself, *"Where do you want to go?"*
 
-Key results are measuraable and specific milestones that directly contribute to the objective. Key results are outcomes, not activities.
+**Key results** are measuraable and specific milestones that directly contribute to the objective. Key results are outcomes, not activities.
 
 To determine *key results*, ask yourself, *"How will I pace myself to see if I am getting there?"* 
 
@@ -31,7 +31,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 
 ## How to use it
-Feel free to use (my OKRs spreadsheet)[https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0]  as a template for your own self study plan. 
+Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) as a template for your own self study plan. 
 1. Brainstorm possible objectives, using the question, "Where do you want to go?", as a guide.
 2. Narrow down your objectives to 5-6. 
 3. Brainstorm possible KRs, using the the question, "How will I pace myself to see if I am getting there?", as a guide. 
