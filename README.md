@@ -12,7 +12,7 @@ To determine *objectives*, ask yourself, *"Where do you want to go?"*.
 
 To determine *key results*, ask yourself, *"How will I pace myself to see if I am getting there?"*.
 
-**While OKRs are typically used by organizations for strategic planning and alignment bewtween teams, I've adapted OKRs to use for [my own goal setting and tracking](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) for my self learning journey on being a software engineer.**
+**While OKRs are typically used by organizations for strategic planning and alignment between teams, I've adapted OKRs to use for [my own goal setting and tracking](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) for my self learning journey on being a software engineer.**
 
 For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehesive overview of how to create and use OKRs.
 
