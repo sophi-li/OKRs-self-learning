@@ -1,4 +1,4 @@
-# OKr-for-self-learning
+# OKRs for Self Learning
 Sophia's self learning plan, OKR style. 
 
 
