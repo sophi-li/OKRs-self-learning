@@ -6,7 +6,7 @@ Sophia's self learning plan, Objectives and Key Results (OKR) style.
 - [What are OKRs?](#what-are-OKRs?)
 - [Why use OKRs?](#why-use-OKRs?)
 - [Building a Strong Programming Foundation using Online Resources](#Building-a-Strong-Programming-Foundation-using-Online-Resources)
-- [Confereneces, Events, and Meetups](Confereneces-Events-and-Meetups)
+- [Confereneces, Events, and Meetups](Conferences-and-Events)
 - [Career Resources](#career-resources)
 
 
@@ -23,7 +23,7 @@ Here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-w
 - [SQLZoo](https://sqlzoo.net/)
 
 
-## Confereneces, Events, and Meetups
+## Conferences and Events
 
 
 ## Career Resources
