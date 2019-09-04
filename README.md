@@ -30,6 +30,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Projects](#Projects)
+- [Reading List](#Reading-list)
 - [Job Boards](#job-boards)
 
 ## Why use OKRs?
@@ -84,6 +85,9 @@ Just start building something, *anything*! I got stuck on trying to build the ne
 
 Some ideas for smaller projects:
 - Creating a Chrome Extension
+
+## Reading List
+- [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
 
 ## Job Boards
 - [Apprenticeships.me](https://apprenticeships.me/)
