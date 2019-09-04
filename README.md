@@ -1,9 +1,9 @@
 # OKRs for Self Learning
 Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on becoming a software engineer, Objectives and Key Results (OKR) style. 
 
-The OKRs methodology is for anyone for wants to set up an ambitious and measurable plan to achieve their goals. The resources below are for anyone who wants to explore or start a career in software engineer or software development. 
+The OKRs methodology is for anyone for wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineer or software development. 
 
-Self learning is still (always) in progress! This repo is actively updated with new resources and learning.
+Self learning is still (and is always) in progress! This repo is actively updated with new resources and learnings.
 
 ## What are OKRs?
 Objectives and Key Results (OKRs) are a strategic planning tool used by many tech organizations such as Google to establish cross functional team alignment, which ultimately helps move the needle closer to achieving the organization's mission.
