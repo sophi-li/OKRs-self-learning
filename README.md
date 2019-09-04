@@ -49,13 +49,13 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [SQLZoo](https://sqlzoo.net/)
 
 ## Holistic Overview of Software Engineering
-- Youtube: [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0)
-- [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
+- [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) 
 - [BaseCS](https://medium.com/basecs)
 
 ## Online Communities
 - [Twitter](https://twitter.com) 
-	- Some hastags: #100DaysofCode #WomeninTech #CodeNewbies #webdev
+	- Some hastags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
 - [Dev.to](https://dev.to/)
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
 
