@@ -61,6 +61,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [A-Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#9-top-people-to-follow)
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
 
 ## Holistic Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
