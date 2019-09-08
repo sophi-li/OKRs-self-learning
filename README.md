@@ -59,6 +59,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 ## Online Learning Resources
 - [SQLZoo](https://sqlzoo.net/)
 - [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
 
 ## Holistic Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -96,10 +97,14 @@ Some ideas for smaller projects:
 
 
 ## Interview Prep Resources
+Coding Practice:
 - [CodeWars](https://www.codewars.com/)
 - [Leetcode](https://leetcode.com/)
 - [Cracking the Coding Interview](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_3?crid=GRIW98JVWL8J&keywords=cracking+the+coding+interview&qid=1567581008&s=gateway&sprefix=cracking+the+%2Caps%2C217&sr=8-3)
+
+General Guidance:
 - [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## Job Boards
 - [Apprenticeships.me](https://apprenticeships.me/)
