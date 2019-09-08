@@ -60,6 +60,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [SQLZoo](https://sqlzoo.net/)
 - [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
+- [A-Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#9-top-people-to-follow)
 
 ## Holistic Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -94,6 +95,8 @@ Just start building something, *anything*! I got stuck on trying to build the ne
 
 Some ideas for smaller projects:
 - Creating a Chrome Extension
+- [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners)
+- [HacktberFest](https://hacktoberfest.digitalocean.com/faq/)
 
 
 ## Interview Prep Resources
