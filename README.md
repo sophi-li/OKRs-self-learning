@@ -46,12 +46,12 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 1. Brainstorm possible objectives, using the question, "Where do you want to go?", as a starting point. Ask yourself "What does wild success look like?" to think big.
 2. Narrow down your objectives to 5-6. 
 3. Brainstorm possible KRs, using the the question, "How will I pace myself to see if I am getting there?", as a guide. 
-4. Narrow down and prioritize KRs that will get you closest to achieving your objective. You should have no more than 5 KRs per objective.
+4. Narrow down and prioritize KRs that will get you closest to achieving your objective. Aim for no more than 5 KRs per objective.
 	- Reminder: KRs are not a to-do list!
-5. Get validation and feedback on your OKRs, preferably those who can give constructive feedback through their own experience or expertise.
+5. Get validation and feedback on your OKRs from those who can give constructive and value additive feedback through their own experience or expertise.
 6. Get started on crushing your OKRs!
 7. Update your OKRs weekly to track your progress.
-8. Reflect monthly and adjust as needed throughout the quarter. OKRs are not set in stone!
+8. Reflect monthly and adjust OKRs as needed throughout the quarter. OKRs are not set in stone!
 9. Do a retrospective at the end of the quarter to apply learning to your next set of OKRs.
 
 ## Online Courses for a Strong Programming Foundation
