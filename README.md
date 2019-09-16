@@ -82,7 +82,21 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 ## People to Follow
 
 
-| Account        | Medium           | 
+<table>
+	<thead>
+	<tr>
+	<th>Account</th>
+	<th>Medium</th>
+	</thead>
+	</tr>
+	<tbody>
+		<tr>
+			<td|[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)></td>
+			<td>Youtube</td>
+		</tr>
+	</tbody>
+</table>
+
 | ------------- |-------------|
 | |[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
 
