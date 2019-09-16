@@ -80,8 +80,6 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
 
 ## People to Follow
-
-
 <table>
 	<thead>
 	<tr>
@@ -97,12 +95,11 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 	</tbody>
 </table>
 
-| ------------- |-------------|
-| |[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
 
 
-
-
+| Account | Medium | 
+| --- | --- |
+| [Dev.to](https://dev.to/)  | Medium |
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
