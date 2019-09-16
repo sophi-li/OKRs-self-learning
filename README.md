@@ -26,6 +26,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [How to use it](#How-to-use-it)
 - [Online Courses for a Strong Programming Foundation](#Online-Courses-for-a-Strong-Programming-Foundation)
 - [Holistic Overview of Software Engineering](#Holistic-Overview-of-Software-Engineering)
+- [Blogs and Articles](#Blogs-and-Articles)
 - [Online Communities](#Online-Communities)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
@@ -41,7 +42,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 ## How to use it
 Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) as a template for your own self study plan. 
-1. Brainstorm possible objectives, using the question, "Where do you want to go?", as a guide.
+1. Brainstorm possible objectives, using the question, "Where do you want to go?", as a starting point. Ask yourself "What does wild success look like?" to think big.
 2. Narrow down your objectives to 5-6. 
 3. Brainstorm possible KRs, using the the question, "How will I pace myself to see if I am getting there?", as a guide. 
 4. Narrow down and prioritize KRs that will get you closest to achieving your objective. You should have no more than 5 KRs per objective.
@@ -67,6 +68,9 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
 - [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) 
 - [BaseCS](https://medium.com/basecs)
+
+## Blogs and Articles
+- [Haseeb's How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
 ## Online Communities
 - [Twitter](https://twitter.com) 
