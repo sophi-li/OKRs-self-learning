@@ -85,6 +85,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
+- [Meetup.com](https://www.meetup.com/)
 - Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
 
 ## Questions for Coffee Chats
@@ -100,7 +101,7 @@ Coffee chats are a great casual way to build your community, learn and hear firs
 - [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
 
 ## Projects
-Just start building something, *anything*! I got stuck on trying to build the next big thing, but that got me nowhere because I never got started since a large project with a million features seemed too daunting. Start small. This will allow you to build your skills and project size incrementally. 
+Just start building something, *anything*! If you're struggling with projects, start small. This will allow you to build your skills and project size incrementally. 
 
 Some ideas for smaller projects:
 - Creating a Chrome Extension
