@@ -83,7 +83,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 
 
 | Account        | Medium           | 
-| ------------- |:-------------:|
+| ------------- |-------------|
 | |[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
 
 
