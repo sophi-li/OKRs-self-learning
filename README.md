@@ -16,7 +16,7 @@ To determine *objectives*, ask yourself, *"Where do you want to go?"*.
 
 To determine *key results*, ask yourself, *"How will I pace myself to see if I am getting there?"*.
 
-**While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) for my self learning journey on being a software engineer.**
+**While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) for my self learning journey on becoming a software engineer.**
 
 For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehesive overview of how to create and use OKRs.
 
@@ -38,7 +38,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 ## Why use OKRs?
 - Focus and accountability over three month increments.
-- OKRs are *not* a task list! When designed right, ambitious OKRs help keep you motivated and on track your progress!
+- OKRs are *not* a task list. When designed right, ambitious OKRs help keep you motivated and on track your progress!
 
 
 ## How to use it
@@ -47,7 +47,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 2. Narrow down your objectives to 5-6. 
 3. Brainstorm possible KRs, using the the question, "How will I pace myself to see if I am getting there?", as a guide. 
 4. Narrow down and prioritize KRs that will get you closest to achieving your objective. You should have no more than 5 KRs per objective.
-	Reminder: KRs are not a to-do list!
+	- Reminder: KRs are not a to-do list!
 5. Get validation and feedback on your OKRs, preferably those who can give constructive feedback through their own experience or expertise.
 6. Get started on crushing your OKRs!
 7. Update your OKRs weekly to track your progress.
@@ -87,7 +87,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 
 
 ## Conferences and Events
-- [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
+- [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
 - [Meetup.com](https://www.meetup.com/)
 - Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
@@ -126,7 +126,7 @@ General Guidance:
 ## Job Boards
 - [Apprenticeships.me](https://apprenticeships.me/)
 - [AngelList](https://angel.co/jobs)
+- [LinkedIn](https://www.linkedin.com/)
 
 
-
-Inspiration for this GitHub repo is from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
+Inspiration from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
