@@ -91,7 +91,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 	</tr>
 	<tbody>
 		<tr>
-			<td|[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)></td>
+			<td>[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)></td>
 			<td>Youtube</td>
 		</tr>
 	</tbody>
