@@ -80,7 +80,14 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
 
 ## People to Follow
-- [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) - Youtuber 
+
+
+| Account        | Medium           | 
+| ------------- |:-------------:|
+| |[Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
+
+
+
 
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
