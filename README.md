@@ -28,6 +28,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Holistic Overview of Software Engineering](#Holistic-Overview-of-Software-Engineering)
 - [Blogs and Articles](#Blogs-and-Articles)
 - [Online Communities](#Online-Communities)
+- [People to Follow](#People-to-Follow)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Reading List](#Reading-list)
@@ -77,6 +78,9 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 	- Some hastags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
 - [Dev.to](https://dev.to/)
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
+
+## People to Follow
+- (Code Drip)[https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g] - Youtuber 
 
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - Amazing 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
