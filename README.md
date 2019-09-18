@@ -88,6 +88,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
+- [CodeLand](https://codelandconf.com/) 
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
 - [Meetup.com](https://www.meetup.com/)
 - Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
@@ -107,10 +108,16 @@ Coffee chats are a great casual way to build your community, learn and hear firs
 ## Projects
 Just start building something, *anything*! If you're struggling with projects, start small. This will allow you to build your skills and project size incrementally. 
 
+Document your project purpose with a well written readme. [Here's](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) a guide by PurpleBooth.
+
+
 Some ideas for smaller projects:
 - Creating a Chrome Extension
+
+Open Source for Beginners:
 - [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners)
 - [HacktberFest](https://hacktoberfest.digitalocean.com/faq/)
+- [First Timers Only]https://www.firsttimersonly.com/
 
 
 ## Interview Prep Resources
