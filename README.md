@@ -142,5 +142,6 @@ Talking to real people, find recruiter emails:
 
 Inspiration from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Thank you to my friends and community who have supported me throughout my journey and discovery of the many resources listed:
+Thank you to my friends and community who have supported me throughout my journey and helped guide me to many of he resources listed above:
+
 Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik
