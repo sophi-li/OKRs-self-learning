@@ -130,6 +130,10 @@ General Guidance:
 - [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
+Talking to real people, find recruiter emails:
+- [Rocket Reach](https://rocketreach.co/) 
+- [Hunter.io](https://hunter.io/)
+
 ## Job Boards
 - [Apprenticeships.me](https://apprenticeships.me/)
 - [AngelList](https://angel.co/jobs)
@@ -137,3 +141,6 @@ General Guidance:
 
 
 Inspiration from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
+
+Thank you to my friends and community who have supported me throughout my journey and discovery of the many resources listed:
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik
