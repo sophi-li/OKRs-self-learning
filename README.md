@@ -38,7 +38,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 ## Why use OKRs?
 - Focus and accountability over three month increments.
-- OKRs are *not* a task list. When designed right, ambitious OKRs help keep you motivated and on track your progress!
+- OKRs are *not* a task list. When designed right, ambitious OKRs help keep you motivated and track your progress!
 
 
 ## How to use it
