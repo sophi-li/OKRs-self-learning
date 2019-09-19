@@ -1,12 +1,12 @@
 # OKRs for Self Learning
 Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on becoming a software engineer, Objectives and Key Results (OKR) style. 
 
-The OKRs methodology is for anyone for wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineer or software development. 
+The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development. 
 
 Self learning is still (and is always) in progress! This repo is actively updated with new resources and learnings.
 
 ## What are OKRs?
-Objectives and Key Results (OKRs) are a strategic planning tool used by many tech organizations such as Google to establish cross functional team alignment, which ultimately helps move the needle closer to achieving the organization's mission.
+Objectives and Key Results (OKRs) is a strategic planning tool used by many tech organizations such as Google to establish cross functional team alignment, which ultimately helps move the needle closer to achieving the organization's mission.
 
 **Objectives** are ambitious goals. If your objectives make you feel uncomfortable, that's a sign you're setting up your OKRs with a healthy amount of rigor!
 
@@ -18,7 +18,7 @@ To determine *key results*, ask yourself, *"How will I pace myself to see if I a
 
 **While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) for my self learning journey on becoming a software engineer.**
 
-For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehesive overview of how to create and use OKRs.
+For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehensive overview of how to create and use OKRs.
 
 ## Table of Contents
 - [What are OKRs?](#what-are-OKRs?)
@@ -45,7 +45,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) as a template for your own self study plan. 
 1. Brainstorm possible objectives, using the question, "Where do you want to go?", as a starting point. Ask yourself "What does wild success look like?" to think big.
 2. Narrow down your objectives to 5-6. 
-3. Brainstorm possible KRs, using the the question, "How will I pace myself to see if I am getting there?", as a guide. 
+3. Brainstorm possible KRs, using the question, "How will I pace myself to see if I am getting there?", as a guide. 
 4. Narrow down and prioritize KRs that will get you closest to achieving your objective. Aim for no more than 5 KRs per objective.
 	- Reminder: KRs are not a to-do list!
 5. Get validation and feedback on your OKRs from those who can give constructive and value additive feedback through their own experience or expertise.
@@ -75,7 +75,7 @@ Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/
 
 ## Online Communities
 - [Twitter](https://twitter.com) 
-	- Some hastags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
+	- Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
 - [Dev.to](https://dev.to/)
 - [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
 
