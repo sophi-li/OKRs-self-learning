@@ -1,5 +1,5 @@
 # OKRs for Self Learning
-Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on becoming a software engineer, Objectives and Key Results (OKR) style. 
+Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on becoming a software engineer, Objectives and Key Results (OKRs) style. 
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development. 
 
@@ -43,6 +43,8 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 ## How to use it
 Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) as a template for your own self study plan. 
+
+Steps to determine your Objectives and Key Results:
 1. Brainstorm possible objectives, using the question, "Where do you want to go?", as a starting point. Ask yourself "What does wild success look like?" to think big.
 2. Narrow down your objectives to 5-6. 
 3. Brainstorm possible KRs, using the question, "How will I pace myself to see if I am getting there?", as a guide. 
