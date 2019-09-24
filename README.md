@@ -66,6 +66,7 @@ Steps to determine your Objectives and Key Results:
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [A-Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#9-top-people-to-follow)
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
+- [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
 
 ## Holistic Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -120,7 +121,7 @@ Open Source for Beginners:
 - [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners)
 - [HacktberFest](https://hacktoberfest.digitalocean.com/faq/)
 - [First Timers Only](https://www.firsttimersonly.com/)
-
+- [Supporting Non-profits with FreeCodeCamp](https://www.freecodecamp.org/nonprofits/)
 
 ## Interview Prep Resources
 Coding Practice:
