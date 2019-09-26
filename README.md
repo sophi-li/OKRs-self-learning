@@ -116,8 +116,9 @@ Just start building something, *anything*! If you're struggling with projects, s
 Document your project with a well written readme. [Here's](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) a guide by PurpleBooth.
 
 
-Some ideas for smaller projects:
+Some ideas for beginner projects:
 - Creating a Chrome Extension
+- [Practice for New JS learner - (Reddit)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 
 Open Source for Beginners:
 - [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners)
