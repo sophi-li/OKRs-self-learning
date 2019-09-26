@@ -25,7 +25,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Why use OKRs?](#why-use-OKRs?)
 - [How to use it](#How-to-use-it)
 - [Online Courses for a Strong Programming Foundation](#Online-Courses-for-a-Strong-Programming-Foundation)
-- [Holistic Overview of Software Engineering](#Holistic-Overview-of-Software-Engineering)
+- [Overview of Software Engineering](#Overview-of-Software-Engineering)
 - [Blogs and Articles](#Blogs-and-Articles)
 - [Online Communities](#Online-Communities)
 - [People to Follow](#People-to-Follow)
@@ -68,11 +68,12 @@ Steps to determine your Objectives and Key Results:
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
 
-## Holistic Overview of Software Engineering
+## Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
 - [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) 
 - [BaseCS](https://medium.com/basecs)
-
+- [Dissecting Front End Job Titles](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)
+- [The Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 ## Blogs and Articles
 - [Haseeb's How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
@@ -87,6 +88,7 @@ Steps to determine your Objectives and Key Results:
 | Account | Medium | 
 | --- | --- |
 | [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
+| [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube |
 
 
 ## Conferences and Events
@@ -133,7 +135,7 @@ General Guidance:
 - [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-Talking to real people, find recruiter emails:
+Talk to real people, find recruiter emails:
 - [Rocket Reach](https://rocketreach.co/) 
 - [Hunter.io](https://hunter.io/)
 
