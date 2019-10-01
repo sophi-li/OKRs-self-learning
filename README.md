@@ -33,7 +33,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Reading List](#Reading-list)
 - [Projects](#Projects)
-- [Productivity Practices](Productivity-Practices)
+- [Productivity Practices](#Productivity-Practices)
 - [Interview Prep Resources](#Interview-Prep-Resources)
 - [Job Search](#job-search)
 
@@ -69,6 +69,7 @@ Steps to determine your Objectives and Key Results:
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
 - [Techtonica Curriculum](https://github.com/techtonica/curriculum)
+- [Tyler McGinnis](https://tylermcginnis.com/courses/)
 
 ## Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -76,6 +77,7 @@ Steps to determine your Objectives and Key Results:
 - [BaseCS](https://medium.com/basecs)
 - [Dissecting Front End Job Titles](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)
 - [The Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
 ## Blogs and Articles
 - [Haseeb's How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
