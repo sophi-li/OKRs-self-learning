@@ -33,8 +33,9 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Reading List](#Reading-list)
 - [Projects](#Projects)
+- [Productivity Practices](Productivity-Practices)
 - [Interview Prep Resources](#Interview-Prep-Resources)
-- [Job Boards](#job-boards)
+- [Job Search](#job-search)
 
 ## Why use OKRs?
 - Focus and accountability over three month increments.
@@ -67,6 +68,7 @@ Steps to determine your Objectives and Key Results:
 - [A-Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#9-top-people-to-follow)
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
+- [Techtonica Curriculum](https://github.com/techtonica/curriculum)
 
 ## Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -118,13 +120,17 @@ Document your project with a well written readme. [Here's](https://gist.github.c
 
 Some ideas for beginner projects:
 - Creating a Chrome Extension
-- [Practice for New JS learner - (Reddit)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
+- [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 
 Open Source for Beginners:
 - [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners)
 - [HacktberFest](https://hacktoberfest.digitalocean.com/faq/)
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [Supporting Non-profits with FreeCodeCamp](https://www.freecodecamp.org/nonprofits/)
+
+## Productivity Practices
+- Utilize [spaced learning](https://medium.com/@CENTURYTech/what-is-spaced-learning-and-why-does-it-matter-7d2ecf2f0382) and repetition. Take frequent breaks.
+- Don't binge on tutorials. Get out of tutorial hell. Make sure you get hands on practice in.
 
 ## Interview Prep Resources
 Coding Practice:
@@ -140,8 +146,12 @@ Talk to real people, find recruiter emails:
 - [Rocket Reach](https://rocketreach.co/) 
 - [Hunter.io](https://hunter.io/)
 
-## Job Boards
+## Job Search
+Apprenticeships
 - [Apprenticeships.me](https://apprenticeships.me/)
+- [Techtonica](https://techtonica.org/)
+
+Job Boards
 - [AngelList](https://angel.co/jobs)
 - [LinkedIn](https://www.linkedin.com/)
 
