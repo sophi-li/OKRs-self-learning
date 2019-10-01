@@ -93,6 +93,7 @@ Steps to determine your Objectives and Key Results:
 | --- | --- |
 | [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube |
+| [Andy Sterkowitz](https://www.youtube.com/watch?v=lQ_rGCL17EE)| Youtube|
 
 
 ## Conferences and Events
