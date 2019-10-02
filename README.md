@@ -80,6 +80,7 @@ Steps to determine your Objectives and Key Results:
 
 ## Blogs and Articles
 - [Haseeb's How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+- [How I Became a Self-Taught Software Engineer at a Major Tech Company](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704)
 
 ## Online Communities
 - [Twitter](https://twitter.com) 
