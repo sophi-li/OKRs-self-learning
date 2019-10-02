@@ -33,6 +33,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Reading List](#Reading-list)
 - [Projects](#Projects)
+- [Contributing to Open Source Projects](#Contributing-to-Open-Source-Projects)
 - [Productivity Practices](#Productivity-Practices)
 - [Interview Prep Resources](#Interview-Prep-Resources)
 - [Job Search](#job-search)
@@ -126,11 +127,15 @@ Some ideas for beginner projects:
 - Creating a Chrome Extension
 - [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 
-Open Source for Beginners:
-- [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners)
-- [HacktberFest](https://hacktoberfest.digitalocean.com/faq/)
+## Contributing to Open Source Projects
+Push out of your comfort zone, get validation and/or feedback by contributing to an open source project. 
+
+- [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners) - A list of beginner friendly projects.
+- [HacktberFest](https://hacktoberfest.digitalocean.com/faq/) - Sign up for HacktoberFest and get a free t-shirt after you submit 4 pull requests (PR) through GitHub in October. 
 - [First Timers Only](https://www.firsttimersonly.com/)
-- [Supporting Non-profits with FreeCodeCamp](https://www.freecodecamp.org/nonprofits/)
+- [Supporting Non-profits with FreeCodeCamp](https://www.freecodecamp.org/nonprofits/) 
+- [Contribute to Techtonica's Curriculum](https://github.com/Techtonica/curriculum)
+
 
 ## Productivity Practices
 - Utilize [spaced learning](https://medium.com/@CENTURYTech/what-is-spaced-learning-and-why-does-it-matter-7d2ecf2f0382) and repetition. Take frequent breaks.
