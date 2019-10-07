@@ -155,6 +155,7 @@ Front-end Resources:
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [How to Succeed in a Frontend Interview](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823)
 - [The Frontend Interview Preparation Guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
+- [Cracking the Frontend Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 
 Talk to real people, find recruiter emails:
 - [Rocket Reach](https://rocketreach.co/) 
