@@ -126,6 +126,7 @@ Document your project with a well written readme. [Here's](https://gist.github.c
 Some ideas for beginner projects:
 - Creating a Chrome Extension
 - [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
+- [Javascript Project Ideas](https://simplestepscode.com/javascript-project-ideas/)
 
 ## Contributing to Open Source Projects
 Push out of your comfort zone, get validation and/or feedback by contributing to an open source project. 
@@ -149,7 +150,11 @@ Coding Practice:
 
 General Guidance:
 - [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
+
+Front-end Resources:
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [How to Succeed in a Frontend Interview](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823)
+- [The Frontend Interview Preparation Guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 
 Talk to real people, find recruiter emails:
 - [Rocket Reach](https://rocketreach.co/) 
@@ -169,4 +174,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and community who have supported me throughout my journey and helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie
