@@ -78,6 +78,7 @@ Steps to determine your Objectives and Key Results:
 - [BaseCS](https://medium.com/basecs)
 - [Dissecting Front End Job Titles](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)
 - [The Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Blogs and Articles
 - [Haseeb's How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
@@ -127,6 +128,7 @@ Some ideas for beginner projects:
 - Creating a Chrome Extension
 - [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 - [Javascript Project Ideas](https://simplestepscode.com/javascript-project-ideas/)
+- Rock, Paper, Scissors [Tutorial on Youtube](https://www.youtube.com/watch?time_continue=1&v=qipq1BV5myU)
 
 ## Contributing to Open Source Projects
 Push out of your comfort zone, get validation and/or feedback by contributing to an open source project. 
