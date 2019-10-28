@@ -152,6 +152,7 @@ Coding Practice:
 
 General Guidance:
 - [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
+- [How to Craft Your Story](https://www.fullstackinterviewing.com/2018/07/29/how-to-craft-your-story.html)
 
 Front-end Resources:
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
@@ -177,4 +178,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and community who have supported me throughout my journey and helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei
