@@ -61,6 +61,7 @@ Steps to determine your Objectives and Key Results:
 ## Online Courses for a Strong Programming Foundation
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
+- [The Odin Project](https://www.theodinproject.com/about)
 
 ## Online Learning Resources
 - [SQLZoo](https://sqlzoo.net/)
@@ -128,7 +129,12 @@ Some ideas for beginner projects:
 - Creating a Chrome Extension
 - [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 - [Javascript Project Ideas](https://simplestepscode.com/javascript-project-ideas/)
-- Rock, Paper, Scissors [Tutorial on Youtube](https://www.youtube.com/watch?time_continue=1&v=qipq1BV5myU)
+- Rock, Paper, Scissors - [Tutorial on Youtube](https://www.youtube.com/watch?time_continue=1&v=qipq1BV5myU)
+- [Florinpop17's App Ideas](https://github.com/florinpop17/app-ideas) 
+
+Working on projects with other real people:
+- [Chingu](https://www.chingu.io/)
+
 
 ## Contributing to Open Source Projects
 Push out of your comfort zone, get validation and/or feedback by contributing to an open source project. 
@@ -178,4 +184,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and community who have supported me throughout my journey and helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Katie
