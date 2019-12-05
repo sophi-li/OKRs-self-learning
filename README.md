@@ -72,6 +72,7 @@ Steps to determine your Objectives and Key Results:
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
 - [Techtonica Curriculum](https://github.com/techtonica/curriculum)
 - [Tyler McGinnis](https://tylermcginnis.com/courses/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
 
 ## Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -118,6 +119,7 @@ Coffee chats are a great casual way to build your community, learn and hear firs
 
 ## Reading List
 - [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
+- [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 
 ## Projects
 Just start building something, *anything*! If you're struggling with projects, start small. This will allow you to build your skills and project size incrementally. 
