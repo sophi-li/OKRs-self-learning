@@ -182,6 +182,6 @@ Job Boards
 ## Acknowledgments
 Inspiration for this repo is from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Thank you to my friends and community who have supported me throughout my journey and helped guide me to many of the resources listed above:
+Thank you to my friends and community who have supported, encouraged, and inspired me throughout my journey. And who have also helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Katie
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori
