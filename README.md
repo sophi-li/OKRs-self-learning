@@ -89,15 +89,15 @@ Steps to determine your Objectives and Key Results:
 - [Twitter](https://twitter.com) 
 	- Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
 - [Dev.to](https://dev.to/)
-- [Reddit: Learn Computer Science](https://www.reddit.com/r/learnprogramming/)
+- Reddit communities: [Learn Computer Science](https://www.reddit.com/r/learnprogramming/), [Webdev](https://www.reddit.com/r/webdev/)
 
 ## People to Follow
 
-| Account | Medium | 
-| --- | --- |
-| [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube |
-| [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube |
-| [Andy Sterkowitz](https://www.youtube.com/watch?v=lQ_rGCL17EE)| Youtube|
+| Account | Medium | Why |
+| ------- | ------ | --- |
+| [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube | Straight to the point video with tips on interviewing |
+| [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube | Short and clear tutorials |
+| [Andy Sterkowitz](https://www.youtube.com/watch?v=lQ_rGCL17EE)| Youtube| 
 
 
 ## Conferences and Events
@@ -113,7 +113,10 @@ Coffee chats are a great casual way to build your community, learn and hear firs
 - Can I get your feedback on X? 
 - What are some challenges you face in your work?
 - What is something new you are learning right now?
+- What are your goals for your career / next career move? 
+- Do you have advice for a self-taught dev?
 - What do you enjoy doing outside of work?
+- Can I reach out to you in the near future for feedback on X?
 - Is there anything I can support you in? 
 
 ## Reading List
@@ -132,7 +135,7 @@ Some ideas for beginner projects:
 - Rock, Paper, Scissors - [Tutorial on Youtube](https://www.youtube.com/watch?time_continue=1&v=qipq1BV5myU)
 - [Florinpop17's App Ideas](https://github.com/florinpop17/app-ideas) 
 
-Working on projects with other real people:
+Working on projects with other motivated and talented developers:
 - [Chingu](https://www.chingu.io/)
 
 
@@ -149,6 +152,7 @@ Push out of your comfort zone, get validation and/or feedback by contributing to
 ## Productivity Practices
 - Utilize [spaced learning](https://medium.com/@CENTURYTech/what-is-spaced-learning-and-why-does-it-matter-7d2ecf2f0382) and repetition. Take frequent breaks.
 - Don't binge on tutorials. Get out of tutorial hell. Make sure you get hands on practice in.
+- [5 Ways to Stay Productive as a Self-taught Developer by Sophia (me)](https://dev.to/sophia_wyl/5-ways-to-stay-productive-as-a-self-taught-developer-efc)
 
 ## Interview Prep Resources
 Coding Practice:
@@ -166,22 +170,24 @@ Front-end Resources:
 - [The Frontend Interview Preparation Guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [Cracking the Frontend Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 
-Talk to real people, find recruiter emails:
-- [Rocket Reach](https://rocketreach.co/) 
-- [Hunter.io](https://hunter.io/)
 
 ## Job Search
 Apprenticeships
 - [Apprenticeships.me](https://apprenticeships.me/)
 - [Techtonica](https://techtonica.org/)
+- [LinkedIn REACH](https://careers.linkedin.com/reach)
 
 Job Boards
 - [AngelList](https://angel.co/jobs)
 - [LinkedIn](https://www.linkedin.com/)
+
+Talk to real people, find recruiter emails:
+- [Rocket Reach](https://rocketreach.co/) 
+- [Hunter.io](https://hunter.io/)
 
 ## Acknowledgments
 Inspiration for this repo is from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
 Thank you to my friends and community who have supported, encouraged, and inspired me throughout my journey. And who have also helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy
