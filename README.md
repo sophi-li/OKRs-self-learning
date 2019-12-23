@@ -86,9 +86,8 @@ Steps to determine your Objectives and Key Results:
 - [How I Became a Self-Taught Software Engineer at a Major Tech Company](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704)
 
 ## Online Communities
-- [Twitter](https://twitter.com) 
-	- Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
-- [Dev.to](https://dev.to/)
+- [Twitter](https://twitter.com): Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
+- [Dev.to](https://dev.to/): Community for programmers to share ideas and help each other grow
 - Reddit communities: [Learn Computer Science](https://www.reddit.com/r/learnprogramming/), [Webdev](https://www.reddit.com/r/webdev/)
 
 ## People to Follow
@@ -190,4 +189,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and community who have supported, encouraged, and inspired me throughout my journey. And who have also helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil
