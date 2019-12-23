@@ -75,8 +75,8 @@ Steps to determine your Objectives and Key Results:
 
 ## Paid Online Learning Resources
 These are paid online resources I found monumental to my learning journey. 
-- [Coding Interview Bootcamp Algorithms and Data Structures by Stephen Grider (Udemy course)](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
-- [Modern Javascript From The Beginning by Traversy Media (Udemy course)](https://www.udemy.com/course/modern-javascript-from-the-beginning)
+- [Coding Interview Bootcamp Algorithms and Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure): Udemy course by Stephen Grider. A walk through of commonly asked interview questions (Javascript)
+- [Modern Javascript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning): Udemy course by Traversy Media. 
 - [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects
 
 ## Overview of Software Engineering
