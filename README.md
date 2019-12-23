@@ -58,12 +58,12 @@ Steps to determine your Objectives and Key Results:
 8. Reflect monthly and adjust OKRs as needed throughout the quarter. OKRs are not set in stone!
 9. Do a retrospective at the end of the quarter to apply learning to your next set of OKRs.
 
-## Online Courses for a Strong Programming Foundation
+## Online (Comprehensive) Curriculum for a Strong Programming Foundation
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
 - [The Odin Project](https://www.theodinproject.com/about)
 
-## Online Learning Resources
+## Free Online Learning Resources
 - [SQLZoo](https://sqlzoo.net/)
 - [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
@@ -72,6 +72,12 @@ Steps to determine your Objectives and Key Results:
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
 - [Techtonica Curriculum](https://github.com/techtonica/curriculum)
 - [Tyler McGinnis](https://tylermcginnis.com/courses/)
+
+## Paid Online Learning Resources
+These are paid online resources I found monumental to my learning journey. 
+- [Coding Interview Bootcamp Algorithms and Data Structures by Stephen Grider (Udemy course)](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
+- [Modern Javascript From The Beginning by Traversy Media (Udemy course)](https://www.udemy.com/course/modern-javascript-from-the-beginning)
+- [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects
 
 ## Overview of Software Engineering
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
@@ -102,12 +108,12 @@ Steps to determine your Objectives and Key Results:
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [CodeLand](https://codelandconf.com/) 
-- [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp near you.
+- [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp meetup near you.
 - [Meetup.com](https://www.meetup.com/)
 - Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
 
 ## Questions for Coffee Chats
-Coffee chats are a great casual way to build your community, learn and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
+Coffee chats are a great casual way to build your community, learn, and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
 - What does a day-to-day look like in your role?
 - Can I get your feedback on X? 
 - What are some challenges you face in your work?
