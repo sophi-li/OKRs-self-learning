@@ -103,7 +103,7 @@ These are paid online resources I found monumental to my learning journey.
 | [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube | Straight to the point video with tips on interviewing |
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube | Short and clear tutorials |
 | [Andy Sterkowitz](https://www.youtube.com/watch?v=lQ_rGCL17EE)| Youtube| 
-
+| [Tenzin](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg) | Youtube |  Tutorials and career guides |
 
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
