@@ -90,6 +90,8 @@ These are paid online resources I found monumental to my learning journey.
 ## Blogs and Articles
 - [Haseeb's How to Break into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 - [How I Became a Self-Taught Software Engineer at a Major Tech Company](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704)
+- [The 2019 Web Development (Frontend + Backend) RoadMap](https://dev.to/javinpaul/the-2019-web-development-frontend-backend-roadmap-4le2)
+- [5 Free Tutorials You Should Complete to Master the Back-End](https://dev.to/saeeddev/5-free-tutorials-you-should-complete-to-master-the-back-end-3077)
 
 ## Online Communities
 - [Twitter](https://twitter.com): Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
@@ -104,6 +106,8 @@ These are paid online resources I found monumental to my learning journey.
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube | Short and clear tutorials |
 | [Andy Sterkowitz](https://www.youtube.com/watch?v=lQ_rGCL17EE)| Youtube| 
 | [Tenzin](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg) | Youtube |  Tutorials and career guides |
+| [WesBos](https://www.youtube.com/user/wesbos) | YouTube | Tutorials | 
+| [javinpaul](https://dev.to/javinpaul) | Dev.to | Learning and interview resource recommendations |
 
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
