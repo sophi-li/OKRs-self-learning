@@ -153,9 +153,9 @@ Push out of your comfort zone, get validation and/or feedback by contributing to
 
 - [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners) - A list of beginner friendly projects.
 - [HacktberFest](https://hacktoberfest.digitalocean.com/faq/) - Sign up for HacktoberFest and get a free t-shirt after you submit 4 pull requests (PR) through GitHub in October. 
-- [First Timers Only](https://www.firsttimersonly.com/)
+- [First Timers Only](https://www.firsttimersonly.com/) - Friendly Open Source projects with specific issues reserved for newbies. 
 - [Supporting Non-profits with FreeCodeCamp](https://www.freecodecamp.org/nonprofits/) 
-- [Contribute to Techtonica's Curriculum](https://github.com/Techtonica/curriculum)
+- [Contribute to Techtonica's Curriculum](https://github.com/Techtonica/curriculum) - Techtonica is an apprenticeships with an open source curriculum you can contribute to.
 
 
 ## Productivity Practices
@@ -199,4 +199,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and community who have supported, encouraged, and inspired me throughout my journey. And who have also helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey
