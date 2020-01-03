@@ -108,7 +108,7 @@ These are paid online resources I found monumental to my learning journey.
 | [Tenzin](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg) | Youtube |  Tutorials and career guides |
 | [WesBos](https://www.youtube.com/user/wesbos) | YouTube | Tutorials | 
 | [javinpaul](https://dev.to/javinpaul) | Dev.to | Learning and interview resource recommendations |
-
+| [Gaurav Sen](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | Youtube | Channel on System Design |
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [CodeLand](https://codelandconf.com/) 
