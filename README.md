@@ -109,12 +109,17 @@ These are paid online resources I found monumental to my learning journey.
 | [WesBos](https://www.youtube.com/user/wesbos) | YouTube | Tutorials | 
 | [javinpaul](https://dev.to/javinpaul) | Dev.to | Learning and interview resource recommendations |
 | [Gaurav Sen](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | Youtube | Channel on System Design |
+
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [CodeLand](https://codelandconf.com/) 
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp meetup near you.
 - [Meetup.com](https://www.meetup.com/)
 - Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
+
+## San Francisco Specific Meetups
+- [Write/Speak/Code](https://www.meetup.com/WriteSpeakCode-SFBay/)
+- [Coding Bootcamp Office Hours with Chloe](https://www.meetup.com/Microsoft-Reactor-San-Francisco)
 
 ## Questions for Coffee Chats
 Coffee chats are a great casual way to build your community, learn, and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
@@ -168,6 +173,7 @@ Coding Practice:
 - [CodeWars](https://www.codewars.com/)
 - [Leetcode](https://leetcode.com/)
 - [Cracking the Coding Interview](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_3?crid=GRIW98JVWL8J&keywords=cracking+the+coding+interview&qid=1567581008&s=gateway&sprefix=cracking+the+%2Caps%2C217&sr=8-3)
+- [HackerRank](https://www.hackerrank.com/)
 
 General Guidance:
 - [TechStack](https://techstacks.io/) - Find out what languages your companies of interest use.
@@ -187,8 +193,9 @@ Apprenticeships
 - [LinkedIn REACH](https://careers.linkedin.com/reach)
 
 Job Boards
-- [AngelList](https://angel.co/jobs)
 - [LinkedIn](https://www.linkedin.com/)
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [AngelList](https://angel.co/jobs)
 
 Talk to real people, find recruiter emails:
 - [Rocket Reach](https://rocketreach.co/) 
@@ -199,4 +206,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and community who have supported, encouraged, and inspired me throughout my journey. And who have also helped guide me to many of the resources listed above:
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe
