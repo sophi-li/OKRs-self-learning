@@ -187,12 +187,12 @@ Front-end Resources:
 
 
 ## Job Search
-Apprenticeships
+Apprenticeships:
 - [Apprenticeships.me](https://apprenticeships.me/)
 - [Techtonica](https://techtonica.org/)
 - [LinkedIn REACH](https://careers.linkedin.com/reach)
 
-Job Boards
+Job Boards:
 - [LinkedIn](https://www.linkedin.com/)
 - [Glassdoor](https://www.glassdoor.com/index.htm)
 - [AngelList](https://angel.co/jobs)
@@ -204,6 +204,6 @@ Talk to real people, find recruiter emails:
 ## Acknowledgments
 Inspiration for this repo is from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Thank you to my friends and community who have supported, encouraged, and inspired me throughout my journey. And who have also helped guide me to many of the resources listed above:
+Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journe!
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella
