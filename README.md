@@ -27,11 +27,11 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Online Courses for a Strong Programming Foundation](#Online-Courses-for-a-Strong-Programming-Foundation)
 - [Overview of Software Engineering](#Overview-of-Software-Engineering)
 - [Blogs and Articles](#Blogs-and-Articles)
+- [Books](#Books)
 - [Online Communities](#Online-Communities)
 - [People to Follow](#People-to-Follow)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
-- [Reading List](#Reading-list)
 - [Projects](#Projects)
 - [Contributing to Open Source Projects](#Contributing-to-Open-Source-Projects)
 - [Productivity Practices](#Productivity-Practices)
@@ -93,6 +93,9 @@ These are paid online resources I found monumental to my learning journey.
 - [The 2019 Web Development (Frontend + Backend) RoadMap](https://dev.to/javinpaul/the-2019-web-development-frontend-backend-roadmap-4le2)
 - [5 Free Tutorials You Should Complete to Master the Back-End](https://dev.to/saeeddev/5-free-tutorials-you-should-complete-to-master-the-back-end-3077)
 
+## Books
+- [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
+
 ## Online Communities
 - [Twitter](https://twitter.com): Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
 - [Dev.to](https://dev.to/): Community for programmers to share ideas and help each other grow
@@ -100,15 +103,20 @@ These are paid online resources I found monumental to my learning journey.
 
 ## People to Follow
 
-| Account | Medium | Why |
+| Account | Medium | Content Type |
 | ------- | ------ | --- |
 | [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube | Straight to the point video with tips on interviewing |
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb) | Youtube | Short and clear tutorials |
-| [Andy Sterkowitz](https://www.youtube.com/watch?v=lQ_rGCL17EE)| Youtube| 
 | [Tenzin](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg) | Youtube |  Tutorials and career guides |
 | [WesBos](https://www.youtube.com/user/wesbos) | YouTube | Tutorials | 
-| [javinpaul](https://dev.to/javinpaul) | Dev.to | Learning and interview resource recommendations |
+| [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA) | Youtube | Tutorials and live streams | 
 | [Gaurav Sen](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | Youtube | Channel on System Design |
+| [Mayuko](https://www.youtube.com/user/hellomayuko) | YouTube | Life in tech |
+| [javinpaul](https://dev.to/javinpaul) | DEV | Learning and interview resource recommendations |
+| [Ali](https://welearncode.com/) | [Lady Bug Podcast](https://www.ladybug.dev/) | Career Advice | 
+| [Tania Rascia](https://www.taniarascia.com/blog/) | Written Blog | In depth written tutorials |
+| [Chris Ferdinandi](https://gomakethings.com/)| Newsletter and Blog | Tutorials and career advice
+
 
 ## Conferences and Events
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
@@ -133,9 +141,6 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Can I reach out to you in the near future for feedback on X?
 - Is there anything I can support you in? 
 
-## Reading List
-- [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
-
 ## Projects
 Just start building something, *anything*! If you're struggling with projects, start small. This will allow you to build your skills and project size incrementally. 
 
@@ -143,13 +148,15 @@ Document your project with a well written readme. [Here's](https://gist.github.c
 
 
 Some ideas for beginner projects:
-- Creating a Chrome Extension
+- Create a Chrome Extension
 - [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 - [Javascript Project Ideas](https://simplestepscode.com/javascript-project-ideas/)
 - Rock, Paper, Scissors - [Tutorial on Youtube](https://www.youtube.com/watch?time_continue=1&v=qipq1BV5myU)
 - [Florinpop17's App Ideas](https://github.com/florinpop17/app-ideas) 
+- Build a product landing page
 
-Working on projects with other motivated and talented developers:
+
+Work on projects with other motivated and talented developers:
 - [Chingu](https://www.chingu.io/)
 
 
@@ -204,6 +211,6 @@ Talk to real people, find recruiter emails:
 ## Acknowledgments
 Inspiration for this repo is from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journe!
+Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey!
 
 Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella
