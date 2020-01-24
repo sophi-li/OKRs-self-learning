@@ -1,5 +1,5 @@
 # OKRs for Self Learning
-Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on becoming a software engineer, Objectives and Key Results (OKRs) style. 
+Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on launching a career in software engineering, Objectives and Key Results (OKRs) style. 
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development. 
 
@@ -35,6 +35,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Projects](#Projects)
 - [Contributing to Open Source Projects](#Contributing-to-Open-Source-Projects)
 - [Productivity Practices](#Productivity-Practices)
+- [Learning Methods](#Learning-Methods)
 - [Interview Prep Resources](#Interview-Prep-Resources)
 - [Job Search](#job-search)
 
@@ -102,7 +103,6 @@ These are paid online resources I found monumental to my learning journey.
 - Reddit communities: [Learn Computer Science](https://www.reddit.com/r/learnprogramming/), [Webdev](https://www.reddit.com/r/webdev/)
 
 ## People to Follow
-
 | Account | Medium | Content Type |
 | ------- | ------ | --- |
 | [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g) | Youtube | Straight to the point video with tips on interviewing |
@@ -174,6 +174,9 @@ Push out of your comfort zone, get validation and/or feedback by contributing to
 - Utilize [spaced learning](https://medium.com/@CENTURYTech/what-is-spaced-learning-and-why-does-it-matter-7d2ecf2f0382) and repetition. Take frequent breaks.
 - Don't binge on tutorials. Get out of tutorial hell. Make sure you get hands on practice in.
 - [5 Ways to Stay Productive as a Self-taught Developer by Sophia (me)](https://dev.to/sophia_wyl/5-ways-to-stay-productive-as-a-self-taught-developer-efc)
+
+## Learning Methods
+In your learning journey, you'll likely come across written, video, audio or other types of resources. Try out different mediums and find out which enable you to learn most effectively.
 
 ## Interview Prep Resources
 Coding Practice:
