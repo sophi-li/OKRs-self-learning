@@ -21,10 +21,10 @@ To determine *key results*, ask yourself, *"How will I pace myself to see if I a
 For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehensive overview of how to create and use OKRs.
 
 ## Table of Contents
-- [What are OKRs?](#what-are-OKRs?)
-- [Why use OKRs?](#why-use-OKRs?)
+- [What are OKRs?](#what-are-OKRs)
+- [Why use OKRs?](#why-use-OKRs)
 - [How to use it](#How-to-use-it)
-- [Online Courses for a Strong Programming Foundation](#Online-Courses-for-a-Strong-Programming-Foundation)
+- [Online Curriculum for a Broad Programming Foundation](#Online-Curriculum-for-a-Broad-Programming-Foundation)
 - [Overview of Software Engineering](#Overview-of-Software-Engineering)
 - [Blogs and Articles](#Blogs-and-Articles)
 - [Books](#Books)
@@ -59,7 +59,7 @@ Steps to determine your Objectives and Key Results:
 8. Reflect monthly and adjust OKRs as needed throughout the quarter. OKRs are not set in stone!
 9. Do a retrospective at the end of the quarter to apply learning to your next set of OKRs.
 
-## Online (Comprehensive) Curriculum for a Strong Programming Foundation
+## Online Curriculum for a Broad Programming Foundation
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
 - [The Odin Project](https://www.theodinproject.com/about)
