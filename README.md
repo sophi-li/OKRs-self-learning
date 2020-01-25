@@ -216,4 +216,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey!
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella, Jeff
