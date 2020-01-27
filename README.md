@@ -206,6 +206,11 @@ Job Boards:
 - [LinkedIn](https://www.linkedin.com/)
 - [Glassdoor](https://www.glassdoor.com/index.htm)
 - [AngelList](https://angel.co/jobs)
+- [KeyValues](https://www.keyvalues.com/)
+
+GitHub Repos:
+- [Hiring Without White Boards](https://github.com/poteto/hiring-without-whiteboards)
+- [Easy Application](https://github.com/j-delaney/easy-application)
 
 Talk to real people, find recruiter emails:
 - [Rocket Reach](https://rocketreach.co/) 
