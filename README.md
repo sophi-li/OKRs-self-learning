@@ -128,6 +128,8 @@ These are paid online resources I found monumental to my learning journey.
 ## San Francisco Specific Meetups
 - [Write/Speak/Code](https://www.meetup.com/WriteSpeakCode-SFBay/)
 - [Coding Bootcamp Office Hours with Chloe](https://www.meetup.com/Microsoft-Reactor-San-Francisco)
+- [Women Who Code](https://www.meetup.com/Women-Who-Code-SF/)
+- [WaffleJS](https://wafflejs.com/)
 
 ## Questions for Coffee Chats
 Coffee chats are a great casual way to build your community, learn, and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
