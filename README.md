@@ -1,5 +1,5 @@
 # OKRs for Self Learning
-Sophia's [self learning plan](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) on launching a career in software engineering, Objectives and Key Results (OKRs) style. 
+Sophia's [self learning plan](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816) on launching a career in software engineering, Objectives and Key Results (OKRs) style. 
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development. 
 
@@ -16,7 +16,7 @@ To determine *objectives*, ask yourself, *"Where do you want to go?"*.
 
 To determine *key results*, ask yourself, *"How will I pace myself to see if I am getting there?"*.
 
-**While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) for my self learning journey on becoming a software engineer.**
+**While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816) for my self learning journey on becoming a software engineer.**
 
 For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehensive overview of how to create and use OKRs.
 
@@ -238,6 +238,11 @@ Front-end Resources:
 - [The Frontend Interview Preparation Guide](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [Cracking the Frontend Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 - [The single source for preparing for a Frontend interview](https://github.com/Jobeir/front-end-interview-preparation-guide)
+- [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+
+Questions to ask at the end of your interview:
+- [Do you have any questions for me?](https://deniseyu.io/2020/02/04/interview-questions-to-ask.html)
 
 ## Resumes And Cover Letters
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
