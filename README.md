@@ -231,6 +231,7 @@ General Guidance:
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 - [The Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
+- [Preparing for Top-Tier Engineering Interviews](https://www.linkedin.com/pulse/preparing-top-tier-engineering-interviews-matthew-clower/)
 
 Front-end Resources:
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
