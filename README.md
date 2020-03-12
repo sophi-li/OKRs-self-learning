@@ -94,6 +94,7 @@ These are paid online resources I found monumental to my learning journey.
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [Pure React by Dave Ceddia](https://daveceddia.com/pure-react/)
 - [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects
 
 ## Overview of Software Engineering
@@ -113,7 +114,7 @@ These are paid online resources I found monumental to my learning journey.
 - [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
 - [5 Free Tutorials You Should Complete to Master the Back-End](https://dev.to/saeeddev/5-free-tutorials-you-should-complete-to-master-the-back-end-3077)
 - [Advice From a Hiring Manager to a Code Bootcamp Graduate](https://blog.usejournal.com/advice-from-a-hiring-manager-to-a-code-bootcamp-graduate-4d1036a7fa78)
-- [19 Tips For Software Engineers In 2019 https://emmawedekind.com/nineteen-tips-for-software-engineers-in-2019](https://emmawedekind.com/nineteen-tips-for-software-engineers-in-2019)
+- [19 Tips For Software Engineers In 2019](https://emmawedekind.com/nineteen-tips-for-software-engineers-in-2019)
 - [How I Became a Self-Taught Software Engineer at a Major Tech Company](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704)
 - [What I Learned by Transitioning from Backend to Frontend Development](https://blog.bitsrc.io/what-i-learned-by-transitioning-from-backend-to-frontend-development-2fc15ead30fe)
 - [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
@@ -169,9 +170,10 @@ These are paid online resources I found monumental to my learning journey.
 
 - [Write/Speak/Code](https://www.writespeakcode.com/) - 3 day conference designed by marginalized gender technologists for marginalized gender technologists.
 - [CodeLand](https://codelandconf.com/)
+- [PerfMatters](https://perfmattersconf.com/)
 - [FreeCodeCamp Bay Area Meetup](https://www.meetup.com/Free-Code-Camp-SF/) - If possible, find a FreeCodeCamp meetup near you.
 - [Meetup.com](https://www.meetup.com/)
-- Google is your best friend! Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
+- Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
 
 ## San Francisco Specific Meetups
 
@@ -198,7 +200,7 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 
 Just start building something, _anything_! If you're struggling with projects, start small. This will allow you to build your skills and project size incrementally.
 
-Document your project with a well written readme. [Here's](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) a guide by PurpleBooth.
+Document your project with a well written readme. [Here's](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) a guide by PurpleBooth. This will help recruiters, hiring managers, or anyone looking at your repo quickly understand what your project is and why / how you built it.
 
 Some ideas for projects:
 
@@ -229,7 +231,7 @@ Push out of your comfort zone, get validation and/or feedback by contributing to
 
 - Utilize [spaced learning](https://medium.com/@CENTURYTech/what-is-spaced-learning-and-why-does-it-matter-7d2ecf2f0382) and repetition. Take frequent breaks.
 - Don't binge on tutorials. Get out of tutorial hell. Make sure you get hands on practice in.
-- [5 Ways to Stay Productive as a Self-taught Developer by Sophia (me)](https://dev.to/sophia_wyl/5-ways-to-stay-productive-as-a-self-taught-developer-efc)
+- [5 Ways to Stay Productive as a Self-taught Developer](https://dev.to/sophia_wyl/5-ways-to-stay-productive-as-a-self-taught-developer-efc)
 
 ## Learning Methods
 
