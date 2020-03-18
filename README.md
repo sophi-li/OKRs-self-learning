@@ -35,7 +35,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Tools and Other Helpful Resources](#Tools-and-Other-Helpful-Resources)
 - [Online Communities](#Online-Communities)
 - [People to Follow](#People-to-Follow)
-- [Mailing Lists and Newsletters](@Mailing-Lists-and-Newsletters)
+- [Mailing Lists and Newsletters](#Mailing-Lists-and-Newsletters)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Projects](#Projects)
@@ -131,6 +131,7 @@ These are paid online resources I found monumental to my learning journey.
 ## Books
 
 - [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
+- [Cracking the Coding Interview](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_3?crid=GRIW98JVWL8J&keywords=cracking+the+coding+interview&qid=1567581008&s=gateway&sprefix=cracking+the+%2Caps%2C217&sr=8-3)
 
 ## Tools and Other Helpful Resources
 
