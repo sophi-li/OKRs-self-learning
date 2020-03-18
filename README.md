@@ -95,7 +95,7 @@ These are paid online resources I found monumental to my learning journey.
 - [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [Pure React by Dave Ceddia](https://daveceddia.com/pure-react/)
-- [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects
+- [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects. Here's [what I learned from my first team project](https://dev.to/sophia_wyl/5-things-i-learned-from-coding-with-other-people-my-first-web-development-team-project-48fk).
 
 ## Overview of Software Engineering
 
@@ -136,10 +136,15 @@ These are paid online resources I found monumental to my learning journey.
 - [Happy Hues](https://www.happyhues.co/palettes/17)
 - [Unsplash](https://unsplash.com/)
 - [Codepen](https://codepen.io/)
+- [VS Code](https://code.visualstudio.com/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://www.npmjs.com/package/eslint)
 
 ## Tech Websites
 
 - [Techcrunch](https://techcrunch.com/startups/)
+- [Y Combinator News](https://news.ycombinator.com/)
+- [Indie Hackers](https://www.indiehackers.com/)
 
 ## Online Communities
 
@@ -148,6 +153,7 @@ These are paid online resources I found monumental to my learning journey.
 - Reddit communities: [Learn Computer Science](https://www.reddit.com/r/learnprogramming/), [Webdev](https://www.reddit.com/r/webdev/)
 - [Elpha](https://elpha.com/)
 - [Coding Coach](https://mentors.codingcoach.io/)
+- [Code Buddies](https://codebuddies.org/)
 
 ## People to Follow
 
@@ -196,21 +202,24 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Can I reach out to you in the near future for feedback on X?
 - Is there anything I can support you in?
 
+[My Top 10 Tips for Self-taught Software Engineers from 20+ Coffee Chats](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1)
+
 ## Projects
 
 Just start building something, _anything_! If you're struggling with projects, start small. This will allow you to build your skills and project size incrementally.
 
-Document your project with a well written readme. [Here's](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) a guide by PurpleBooth. This will help recruiters, hiring managers, or anyone looking at your repo quickly understand what your project is and why / how you built it.
+Document your project with a well written readme. [Here's a guide by PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). This will help recruiters, hiring managers, or anyone looking at your repo quickly understand what your project is and why / how you built it.
 
 Some ideas for projects:
 
-- Build a product landing page
+- Build a product landing page ([7 Best Practices](https://dev.to/sophia_wyl/best-practices-for-building-a-product-landing-page-491i))
 - Create a Chrome Extension
 - [Practice for New JS learner (Reddit thread)](https://www.reddit.com/r/learnjavascript/comments/d91j3w/where_should_a_new_js_learner_practice/)
 - [Javascript Project Ideas](https://simplestepscode.com/javascript-project-ideas/)
 - Rock, Paper, Scissors - [Tutorial on Youtube](https://www.youtube.com/watch?time_continue=1&v=qipq1BV5myU)
 - [Florinpop17's App Ideas](https://github.com/florinpop17/app-ideas)
 - [A list of awesome beginners-friendly projects](https://github.com/mungell/awesome-for-beginners)
+- [How On Earth Do You Use NASA APIs with Azure Functions? 🚀🌍](https://dev.to/sophia_wyl/how-on-earth-do-you-use-nasa-apis-with-azure-functions-hmf)
 
 Work on projects with other developers:
 
@@ -232,6 +241,7 @@ Push out of your comfort zone, get validation and/or feedback by contributing to
 - Utilize [spaced learning](https://medium.com/@CENTURYTech/what-is-spaced-learning-and-why-does-it-matter-7d2ecf2f0382) and repetition. Take frequent breaks.
 - Don't binge on tutorials. Get out of tutorial hell. Make sure you get hands on practice in.
 - [5 Ways to Stay Productive as a Self-taught Developer](https://dev.to/sophia_wyl/5-ways-to-stay-productive-as-a-self-taught-developer-efc)
+- [5 Ways to Get Over Plateaus as a Self-taught Developer](https://dev.to/sophia_wyl/5-ways-to-get-over-plateaus-as-a-self-taught-developer-4kj9)
 
 ## Learning Methods
 
@@ -239,7 +249,7 @@ In your learning journey, you'll likely come across written, video, audio or oth
 
 ## Interview Prep Resources
 
-Websites for Coding Practice:
+Websites / Books for Coding Practice:
 
 - [CodeWars](https://www.codewars.com/)
 - [Leetcode](https://leetcode.com/)
@@ -257,13 +267,19 @@ General Guidance:
 - [How to Craft Your Story](https://www.fullstackinterviewing.com/2018/07/29/how-to-craft-your-story.html)
 - [The Software Engineer’s Guide to Interviewing Software Engineers](https://blog.usejournal.com/the-software-engineers-guide-to-interviewing-software-engineers-980bbfdb4006)
 - [Medium's Engineering Interview Grading Rubric](https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f)
-- [Algorithms in JavaScript: 40 Problems, Solutions, and Explanations](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 - [How to answer “why are you interested in this job?”](https://www.askamanager.org/2019/07/how-to-answer-why-are-you-interested-in-this-job.html)
 - [A curated collection of common interview questions to help you prepare for your next interview](https://github.com/30-seconds/30-seconds-of-interviews)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 - [The Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 - [Preparing for Top-Tier Engineering Interviews](https://www.linkedin.com/pulse/preparing-top-tier-engineering-interviews-matthew-clower/)
+- [Fullstackinterviewing.com](https://www.fullstackinterviewing.com)
+
+Data Structures and Algorithms Resources:
+
+- [4-Step Strategy to Frame Your Thought Process in a Whiteboard Coding Interview](https://dev.to/sophia_wyl/4-step-strategy-to-frame-your-thought-process-in-a-whiteboard-coding-interview-74l)
+- [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Algorithms in JavaScript: 40 Problems, Solutions, and Explanations](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 
 Front-end Resources:
 
@@ -273,6 +289,7 @@ Front-end Resources:
 - [Cracking the Frontend Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 - [The single source for preparing for a Frontend interview](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Javascript Questions](https://github.com/lydiahallie/javascript-questions/tree/master/en-EN)
 
 Questions to ask at the end of your interview:
 
