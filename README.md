@@ -35,6 +35,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Tools and Other Helpful Resources](#Tools-and-Other-Helpful-Resources)
 - [Online Communities](#Online-Communities)
 - [People to Follow](#People-to-Follow)
+- [Mailing Lists and Newsletters](@Mailing-Lists-and-Newsletters)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
 - [Projects](#Projects)
@@ -171,6 +172,22 @@ These are paid online resources I found monumental to my learning journey.
 | [Chris Ferdinandi](https://gomakethings.com/)                                                     | Newsletter and Blog                          | Tutorials and career advice                           |
 | [Dave Ceddia](https://daveceddia.com/)                                                            | Blog                                         | Written React articles                                |
 | [Dan Abramov](https://overreacted.io/)                                                            | Blog                                         | Written React articles                                |
+| [Veni](https://twitter.com/venikunche)                                                            | Twitter                                      | Career Advice and Job Opps                            |
+
+## Mailing Lists and Newsletters
+
+These are some mailing lists and newsletters that are worth the email space.
+General career things:
+
+- [Diversify Tech](https://www.diversifytech.co/)
+
+Learning Javascript:
+
+- [Dan Abramov's newsletter](https://overreacted.io/things-i-dont-know-as-of-2018/)
+
+Learning React:
+
+- [Dave's 5 day React email course](https://daveceddia.com/pure-react-email-course/)
 
 ## Conferences and Events
 
