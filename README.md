@@ -145,14 +145,14 @@ These are paid online resources I found monumental to my learning journey.
 ## Tech Websites
 
 - [Techcrunch](https://techcrunch.com/startups/)
-- [Y Combinator News](https://news.ycombinator.com/)
+- [Hacker News](https://news.ycombinator.com/)
 - [Indie Hackers](https://www.indiehackers.com/)
 
 ## Online Communities
 
 - [Twitter](https://twitter.com): Some hashtags to follow and use: #100DaysofCode #WomeninTech #CodeNewbies #webdev
 - [Dev.to](https://dev.to/): Community for programmers to share ideas and help each other grow
-- Reddit communities: [Learn Computer Science](https://www.reddit.com/r/learnprogramming/), [Webdev](https://www.reddit.com/r/webdev/)
+- Reddit communities: [Learn Computer Science](https://www.reddit.com/r/learnprogramming/), [Webdev](https://www.reddit.com/r/webdev/), [GirlsGoneWired](https://www.reddit.com/r/girlsgonewired/)
 - [Elpha](https://elpha.com/)
 - [Coding Coach](https://mentors.codingcoach.io/)
 - [Code Buddies](https://codebuddies.org/)
@@ -218,6 +218,7 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Do you have advice for a self-taught dev?
 - What do you enjoy doing outside of work?
 - Can I reach out to you in the near future for feedback on X?
+- Question about something specific to them (based off of your research about them / their company)
 - Is there anything I can support you in?
 
 [My Top 10 Tips for Self-taught Software Engineers from 20+ Coffee Chats](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1)
