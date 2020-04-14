@@ -169,11 +169,14 @@ These are paid online resources I found monumental to my learning journey.
 | [Gaurav Sen](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | Youtube                                      | Channel on System Design                              |
 | [Mayuko](https://www.youtube.com/user/hellomayuko)                                                | YouTube                                      | Life in tech                                          |
 | [Ali](https://welearncode.com/)                                                                   | [Lady Bug Podcast](https://www.ladybug.dev/) | Career Advice                                         |
+| [Emma Bostian](https://twitter.com/EmmaBostian)                                                   | [Lady Bug Podcast](https://www.ladybug.dev/) | Career Advice                                         |
 | [Tania Rascia](https://www.taniarascia.com/blog/)                                                 | Written Blog                                 | In depth written tutorials                            |
 | [Chris Ferdinandi](https://gomakethings.com/)                                                     | Newsletter and Blog                          | Tutorials and career advice                           |
 | [Dave Ceddia](https://daveceddia.com/)                                                            | Blog                                         | Written React articles                                |
 | [Dan Abramov](https://overreacted.io/)                                                            | Blog                                         | Written React articles                                |
 | [Veni](https://twitter.com/venikunche)                                                            | Twitter                                      | Career Advice and Job Opps                            |
+| [Lydia Hallie](https://dev.to/lydiahallie)                                                        | DEV                                          | JavaScript concepts visualized                        |
+| [Denise Yu](https://twitter.com/deniseyu21)                                                       | Twitter                                      | Art & tech                                            |
 
 ## Mailing Lists and Newsletters
 
@@ -367,4 +370,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey!
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat, Becca, Stephen
