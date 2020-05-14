@@ -34,7 +34,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Books](#Books)
 - [Tools and Other Helpful Resources](#Tools-and-Other-Helpful-Resources)
 - [Online Communities](#Online-Communities)
-- [People to Follow](#People-to-Follow)
+- [People Who Make Great Content](#People-who-make-great-content)
 - [Mailing Lists and Newsletters](#Mailing-Lists-and-Newsletters)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
@@ -157,26 +157,28 @@ These are paid online resources I found monumental to my learning journey.
 - [Coding Coach](https://mentors.codingcoach.io/)
 - [Code Buddies](https://codebuddies.org/)
 
-## People to Follow
+## People Who Make Great Content
 
-| Account                                                                                           | Medium                                       | Content Type                                          |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------- |
-| [Code Drip](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)                             | Youtube                                      | Straight to the point video with tips on interviewing |
-| [Traversy Media](https://www.youtube.com/user/TechGuyWeb)                                         | Youtube                                      | Short and clear tutorials                             |
-| [Tenzin](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)                                | Youtube                                      | Tutorials and career guides                           |
-| [WesBos](https://www.youtube.com/user/wesbos)                                                     | YouTube                                      | Tutorials                                             |
-| [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)                            | Youtube                                      | Tutorials and live streams                            |
-| [Gaurav Sen](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | Youtube                                      | Channel on System Design                              |
-| [Mayuko](https://www.youtube.com/user/hellomayuko)                                                | YouTube                                      | Life in tech                                          |
-| [Ali](https://welearncode.com/)                                                                   | [Lady Bug Podcast](https://www.ladybug.dev/) | Career Advice                                         |
-| [Emma Bostian](https://twitter.com/EmmaBostian)                                                   | [Lady Bug Podcast](https://www.ladybug.dev/) | Career Advice                                         |
-| [Tania Rascia](https://www.taniarascia.com/blog/)                                                 | Written Blog                                 | In depth written tutorials                            |
-| [Chris Ferdinandi](https://gomakethings.com/)                                                     | Newsletter and Blog                          | Tutorials and career advice                           |
-| [Dave Ceddia](https://daveceddia.com/)                                                            | Blog                                         | Written React articles                                |
-| [Dan Abramov](https://overreacted.io/)                                                            | Blog                                         | Written React articles                                |
-| [Veni](https://twitter.com/venikunche)                                                            | Twitter                                      | Career Advice and Job Opps                            |
-| [Lydia Hallie](https://dev.to/lydiahallie)                                                        | DEV                                          | JavaScript concepts visualized                        |
-| [Denise Yu](https://twitter.com/deniseyu21)                                                       | Twitter                                      | Art & tech                                            |
+| Who             | Medium                                                                                                                          | Content Type                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Tania Rascia    | [Blog](https://www.taniarascia.com/blog/)                                                                                       | One of the best blogs with written tutorials       |
+| Dave Ceddia     | [Blog](https://daveceddia.com/)                                                                                                 | One of the best blogs with written React articles  |
+| Dan Abramov     | [Blog](https://overreacted.io/)                                                                                                 | Blog on React, JsavaScript, tech                   |
+| Veni            | [Twitter](https://twitter.com/venikunche)                                                                                       | Career Advice and Job Opps                         |
+| Denise Yu       | [Twitter](https://twitter.com/deniseyu21)                                                                                       | Art & tech                                         |
+| Maggie Appleton | [Twitter](https://twitter.com/Mappletons)                                                                                       | Visually explanations of programming topics        |
+| Chloe Condon    | [Twitter](https://twitter.com/ChloeCondon), [BCC: All Podcast](https://www.youtube.com/channel/UChWn8UyK3PNfMLYOCzrH6sQ/videos) | Tech, getting into tech & tech, but make it fun    |
+| Angie Jones     | [Twitter](https://twitter.com/techgirl1908n), [Blog](https://angiejones.tech/)                                                  | Tech, blogging, tutorials                          |
+| Emma Bostian    | [Twitter](https://twitter.com/EmmaBostian), [Lady Bug Podcast](https://www.ladybug.dev/)                                        | Career advice                                      |
+| Lydia Hallie    | [DEV](https://dev.to/lydiahallie)                                                                                               | JavaScript concepts visualized                     |
+| Traversy Media  | [Youtube](https://www.youtube.com/user/TechGuyWeb)                                                                              | Short and clear tutorials                          |
+| Mayuko          | [YouTube](https://www.youtube.com/user/hellomayuko)                                                                             | Life in tech                                       |
+| Code Drip       | [Youtube](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)                                                             | Getting into tech & tutorials                      |
+| WesBos          | [YouTube](https://www.youtube.com/user/wesbos)                                                                                  | Tutorials                                          |
+| Florin Pop      | [Youtube](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)                                                             | Tutorials and live streams                         |
+| Gaurav Sen      | [Youtube](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)                                  | System Design                                      |
+| Colt Steele     | [Youtube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)                                                             | Clear JavaScript tutorials and explanations        |
+| Coding Train    | [Youtube](https://www.youtube.com/user/shiffman)                                                                                | Enthusiastic JavaScript tutorials and explanations |
 
 ## Mailing Lists and Newsletters
 
@@ -358,7 +360,7 @@ Talk to real people, find recruiter emails:
 
 ## About Me
 
-- [LinkedIn](https://www.linkedin.com/in/sophiali124/) - I'm looking for front-end SWE opps!
+- [LinkedIn](https://www.linkedin.com/in/sophiali124/) - I'm looking for software engineering opps!
 - [Twitter](https://twitter.com/sophia_wyl)
 - [Website](http://sophiali.dev/)
 - [GitHub](https://github.com/sophi-li)
@@ -370,4 +372,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey!
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat, Becca, Stephen
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat, Becca, Stephen, Travis
