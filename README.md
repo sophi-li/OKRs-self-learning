@@ -84,6 +84,8 @@ Steps to determine your Objectives and Key Results:
 - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
 - [Techtonica Curriculum](https://github.com/techtonica/curriculum)
+- [Tyler McGinnis](https://tylermcginnis.com/courses/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
 - [A Web Design Crash Course: From one non-designer to another](https://welearncode.com/web-design-crash-course/)
 - [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
 
@@ -97,6 +99,7 @@ These are paid online resources I found monumental to my learning journey.
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [Pure React by Dave Ceddia](https://daveceddia.com/pure-react/)
 - [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects. Here's [what I learned from my first team project](https://dev.to/sophia_wyl/5-things-i-learned-from-coding-with-other-people-my-first-web-development-team-project-48fk).
+
 
 ## Overview of Software Engineering
 
@@ -226,7 +229,12 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Question about something specific to them (based off of your research about them / their company)
 - Is there anything I can support you in?
 
-[My Top 10 Tips for Self-taught Software Engineers from 20+ Coffee Chats](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1)
+
+## Reading List
+- [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
+- [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+- [My Top 10 Tips for Self-taught Software Engineers from 20+ Coffee Chats](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1)
+
 
 ## Projects
 
