@@ -4,13 +4,13 @@ Sophia's [self learning plan](https://docs.google.com/spreadsheets/d/1HAFmN-UvrF
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development.
 
-Self learning is still (and is always) in progress! This repo is actively updated with new resources and learnings.
+Self learning is still (and is always) in progress! This repo is occasionally updated with new resources and learnings.
 
 ## What are OKRs?
 
 Objectives and Key Results (OKRs) is a strategic planning tool used by many tech organizations such as Google to establish cross functional team alignment, which ultimately helps move the needle closer to achieving the organization's mission.
 
-**Objectives** are ambitious goals. If your objectives make you feel uncomfortable, that's a sign you're setting up your OKRs with a healthy amount of rigor!
+**Objectives** are ambitious goals. If your objectives make you feel uncomfortable, that's a sign you're setting up your OKRs with a healthy amount of rigor.
 
 To determine _objectives_, ask yourself, _"Where do you want to go?"_.
 
@@ -28,7 +28,9 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Why use OKRs?](#why-use-OKRs)
 - [How to use it](#How-to-use-it)
 - [Online Curriculum for a Broad Programming Foundation](#Online-Curriculum-for-a-Broad-Programming-Foundation)
-- [Overview of Software Engineering](#Overview-of-Software-Engineering)
+- [Paid Online Learning Resources](#Paid-Online-Learning-Resources)
+- [Free Online Learning Resources](#Free-Online-Learning-Resources)
+- [Overview of Different Fields in Software Engineering](#Overview-of-Different-Fields-in-Software-Engineering)
 - [Blogs and Articles](#Blogs-and-Articles)
 - [GitHub Repos](#GitHub-Repos)
 - [Books](#Books)
@@ -51,7 +53,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 ## Why use OKRs?
 
 - Focus and accountability over three month increments.
-- OKRs are _not_ a task list. When designed right, ambitious OKRs help keep you motivated and track your progress!
+- OKRs are _not_ a task list. When designed right, ambitious OKRs help keep you motivated and track your progress.
 
 ## How to use it
 
@@ -76,19 +78,6 @@ Steps to determine your Objectives and Key Results:
 - [Codecademy](https://www.codecademy.com/)
 - [The Odin Project](https://www.theodinproject.com/about)
 
-## Free Online Learning Resources
-
-- [SQLZoo](https://sqlzoo.net/)
-- [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Teach Yourself CS](https://teachyourselfcs.com/)
-- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
-- [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
-- [Techtonica Curriculum](https://github.com/techtonica/curriculum)
-- [Tyler McGinnis](https://tylermcginnis.com/courses/)
-- [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
-- [A Web Design Crash Course: From one non-designer to another](https://welearncode.com/web-design-crash-course/)
-- [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
-
 ## Paid Online Learning Resources
 
 These are paid online resources I found monumental to my learning journey.
@@ -100,8 +89,22 @@ These are paid online resources I found monumental to my learning journey.
 - [Pure React by Dave Ceddia](https://daveceddia.com/pure-react/)
 - [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects. Here's [what I learned from my first team project](https://dev.to/sophia_wyl/5-things-i-learned-from-coding-with-other-people-my-first-web-development-team-project-48fk).
 
+## Free Online Learning Resources
 
-## Overview of Software Engineering
+- [SQLZoo](https://sqlzoo.net/)
+- [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
+- [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
+- [Techtonica Curriculum](https://github.com/techtonica/curriculum)
+- [Tania Rascia](https://www.taniarascia.com/blog/)
+- [Dave Ceddia](https://daveceddia.com/archives/)
+- [Tyler McGinnis](https://tylermcginnis.com/courses/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
+- [A Web Design Crash Course: From one non-designer to another](https://welearncode.com/web-design-crash-course/)
+- [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+
+## Overview of Different Fields in Software Engineering
 
 - [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
 - [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
@@ -172,13 +175,11 @@ These are paid online resources I found monumental to my learning journey.
 | Maggie Appleton | [Twitter](https://twitter.com/Mappletons)                                                                                       | Visually explanations of programming topics        |
 | Chloe Condon    | [Twitter](https://twitter.com/ChloeCondon), [BCC: All Podcast](https://www.youtube.com/channel/UChWn8UyK3PNfMLYOCzrH6sQ/videos) | Tech, getting into tech & tech, but make it fun    |
 | Angie Jones     | [Twitter](https://twitter.com/techgirl1908n), [Blog](https://angiejones.tech/)                                                  | Tech, blogging, tutorials                          |
-| Emma Bostian    | [Twitter](https://twitter.com/EmmaBostian), [Lady Bug Podcast](https://www.ladybug.dev/)                                        | Career advice                                      |
 | Lydia Hallie    | [DEV](https://dev.to/lydiahallie)                                                                                               | JavaScript concepts visualized                     |
 | Traversy Media  | [Youtube](https://www.youtube.com/user/TechGuyWeb)                                                                              | Short and clear tutorials                          |
 | Mayuko          | [YouTube](https://www.youtube.com/user/hellomayuko)                                                                             | Life in tech                                       |
 | Code Drip       | [Youtube](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)                                                             | Getting into tech & tutorials                      |
 | WesBos          | [YouTube](https://www.youtube.com/user/wesbos)                                                                                  | Tutorials                                          |
-| Florin Pop      | [Youtube](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)                                                             | Tutorials and live streams                         |
 | Gaurav Sen      | [Youtube](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)                                  | System Design                                      |
 | Colt Steele     | [Youtube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)                                                             | Clear JavaScript tutorials and explanations        |
 | Coding Train    | [Youtube](https://www.youtube.com/user/shiffman)                                                                                | Enthusiastic JavaScript tutorials and explanations |
@@ -229,12 +230,12 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Question about something specific to them (based off of your research about them / their company)
 - Is there anything I can support you in?
 
+Here's a [blog](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1) of tips I got from coffee chats.
 
 ## Reading List
+
 - [A Philosophy of Software Design by John Ousterhout](https://smile.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_3?crid=YXJ3ZLRCTJJG&keywords=philosophy+of+software+design&qid=1567580429&s=gateway&sprefix=philosophy+of+softwa%2Caps%2C197&sr=8-3)
 - [You Don't Know JS Yet (book series) - 2nd Edition by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
-- [My Top 10 Tips for Self-taught Software Engineers from 20+ Coffee Chats](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1)
-
 
 ## Projects
 
