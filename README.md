@@ -1,6 +1,8 @@
 # OKRs for Self Learning
 
-Sophia's [self learning plan](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816) on launching a career in software engineering, Objectives and Key Results (OKRs) style.
+[Click here to see Sophia's OKRs.](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816)
+
+This GitHub repository contains a lot of reources from Sophia's [self learning plan](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816) on launching a career in software engineering, Objectives and Key Results (OKRs) style.
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development.
 
@@ -103,6 +105,8 @@ These are paid online resources I found monumental to my learning journey.
 - [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
 - [A Web Design Crash Course: From one non-designer to another](https://welearncode.com/web-design-crash-course/)
 - [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Grid Garden](https://cssgridgarden.com/)
 
 ## Overview of Different Fields in Software Engineering
 
@@ -311,6 +315,7 @@ General Guidance:
 Data Structures and Algorithms Resources:
 
 - [4-Step Strategy to Frame Your Thought Process in a Whiteboard Coding Interview](https://dev.to/sophia_wyl/4-step-strategy-to-frame-your-thought-process-in-a-whiteboard-coding-interview-74l)
+- [Leetcode Easy Collection Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/)
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [Algorithms in JavaScript: 40 Problems, Solutions, and Explanations](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 
@@ -327,6 +332,7 @@ Front-end Resources:
 Questions to ask at the end of your interview:
 
 - [Do you have any questions for me?](https://deniseyu.io/2020/02/04/interview-questions-to-ask.html)
+- [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 
 ## Resumes And Cover Letters
 
@@ -342,6 +348,7 @@ Apprenticeships:
 - [Apprenticeships.me](https://apprenticeships.me/)
 - [Techtonica](https://techtonica.org/)
 - [LinkedIn REACH](https://careers.linkedin.com/reach)
+- [Twilio Hatch](https://www.twilio.com/company/diversity/hatch)
 
 Job Boards:
 
