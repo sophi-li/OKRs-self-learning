@@ -191,13 +191,10 @@ These are paid online resources I found monumental to my learning journey.
 ## Mailing Lists and Newsletters
 
 These are some mailing lists and newsletters that are worth the email space.
+
 General career things:
 
 - [Diversify Tech](https://www.diversifytech.co/)
-
-Learning Javascript:
-
-- [Dan Abramov's newsletter](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
 Learning React:
 
@@ -333,6 +330,7 @@ Questions to ask at the end of your interview:
 
 - [Do you have any questions for me?](https://deniseyu.io/2020/02/04/interview-questions-to-ask.html)
 - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+- [KeyValues](https://www.keyvalues.com/)
 
 ## Resumes And Cover Letters
 
@@ -358,6 +356,7 @@ Job Boards:
 - [KeyValues](https://www.keyvalues.com/)
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Vettery](https://www.vettery.com/)
+- [Triplebyte](https://triplebyte.com/)
 
 GitHub Repos:
 
@@ -373,10 +372,11 @@ Talk to real people, find recruiter emails:
 
 - [10 questions I wish I’d asked more to turbocharge my career](https://medium.com/@joulee/10-questions-i-wish-id-asked-more-to-turbocharge-my-career-afad1b0fa501)
 - [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
+- [Candidate Planet on Negotiation](https://www.youtube.com/c/CandidatePlanet)
 
 ## About Me
 
-- [LinkedIn](https://www.linkedin.com/in/sophiali124/) - I'm looking for software engineering opps!
+- [LinkedIn](https://www.linkedin.com/in/sophiali124/)
 - [Twitter](https://twitter.com/sophia_wyl)
 - [Website](http://sophiali.dev/)
 - [GitHub](https://github.com/sophi-li)
@@ -388,4 +388,4 @@ Inspiration for this repo is from Jwasham's [Coding Interview University](https:
 
 Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey!
 
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat, Becca, Stephen, Travis
+Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Kimberlee, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat, Michael, Robert, Becca, Stephen, Travis,Jamie, Veni, Amruta, Brandon, Adam, Zoya, Michal, Joe, Martin, Rez, Mark, Andrew, Elly, Brantone, Nick, Jeremy, Greg, Alaina
