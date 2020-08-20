@@ -209,12 +209,16 @@ Git:
 
 ## Tools and Other Helpful Resources
 
-- [Happy Hues](https://www.happyhues.co/palettes/17)
-- [Unsplash](https://unsplash.com/)
-- [Codepen](https://codepen.io/)
-- [VS Code](https://code.visualstudio.com/)
-- [Prettier](https://prettier.io/)
-- [ESLint](https://www.npmjs.com/package/eslint)
+- [Happy Hues](https://www.happyhues.co/palettes/17) - color palettes
+- [Unsplash](https://unsplash.com/) - free stock photos
+- [Codepen](https://codepen.io/) - online code editor
+- [VS Code](https://code.visualstudio.com/) - code editor
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - extension for running live server
+- [Prettier](https://prettier.io/) - code formatter extension
+- [ESLint](https://www.npmjs.com/package/eslint) - tool for
+- [Figma](https://www.figma.com/) - wireframing tool
+- [Trello](https://trello.com/en-US) - project management tool
+- [Fontawesome](https://fontawesome.com/) - icons
 
 ## Tech Websites
 
