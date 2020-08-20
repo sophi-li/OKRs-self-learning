@@ -120,7 +120,7 @@ JavaScript:
 - [JavaScript this](https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3)
 - [Understanding Classes in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 - [MDN Object-oriented JavaScript for beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
-- [Asynchronous Programming with Callbacks in JavaScript](Stanley Ulili)
+- [Asynchronous Programming with Callbacks in JavaScript by Stanley Ulili](https://www.stanleyulili.com/javascript/asynchronous-programming-with-callbacks-in-javascript/)
 - [Understanding Prototypes and Inheritance in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript#constructor-functions)
 - [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 
