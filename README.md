@@ -93,20 +93,81 @@ These are paid online resources I found monumental to my learning journey.
 
 ## Free Online Learning Resources
 
-- [SQLZoo](https://sqlzoo.net/)
-- [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Teach Yourself CS](https://teachyourselfcs.com/)
-- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
-- [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
-- [Techtonica Curriculum](https://github.com/techtonica/curriculum)
-- [Tania Rascia](https://www.taniarascia.com/blog/)
-- [Dave Ceddia](https://daveceddia.com/archives/)
-- [Tyler McGinnis](https://tylermcginnis.com/courses/)
-- [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
-- [A Web Design Crash Course: From one non-designer to another](https://welearncode.com/web-design-crash-course/)
+Resources on learning HTML, CSS, JavaScript, React, and other coding concepts.
+
+Web:
+
+- [How the internet works](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [MDN Learn front-end web development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+
+HTML & CSS:
+
 - [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Grid Garden](https://cssgridgarden.com/)
+- [1-Line Layouts](https://1linelayouts.glitch.me/)
+
+JavaScript:
+
+- [Tania Rascia](https://www.taniarascia.com/blog/)
+- [How To Code in JavaScript by Digital Ocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
+- [How To Code in Node.js by Digital Ocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js)
+- [Dan’s JavaScript Glossary](https://whatthefuck.is/)
+- [Tyler McGinnis](https://tylermcginnis.com/courses/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/) - Free Online book and Code sandbox for exercises.
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hour FreeCodeCamp Youtube video
+- [Techtonica Curriculum](https://github.com/techtonica/curriculum)
+- [JavaScript this](https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3)
+- [Understanding Classes in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
+- [MDN Object-oriented JavaScript for beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [Asynchronous Programming with Callbacks in JavaScript](Stanley Ulili)
+- [Understanding Prototypes and Inheritance in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript#constructor-functions)
+- [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+
+React:
+
+- [React cheatsheet](https://devhints.io/react) -[Creating a simple form with Flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
+- [React Hooks with Firebase](https://blog.logrocket.com/react-hooks-with-firebase-firestore/?fbclid=IwAR0cZwvjwy6X8lX6f3XjAQVmO9NlM-oxs9p3Aj-kYWMKipLkPqFaUGhKcZQ)
+- [Dave Ceddia](https://daveceddia.com/archives/)
+- [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
+- [React Router](https://knowbody.github.io/react-router-docs/About.html)
+- [Don't know what to test on your React App? Learn how to make a test list.]()
+- [Refactoring useState() To useReducer()](https://www.aboutmonica.com/blog/2020-04-04-refactoring-use-state-to-use-reducer)
+- [Understanding The Fundamentals of Routing in React by Edmond Atto](https://medium.com/the-andela-way/understanding-the-fundamentals-of-routing-in-react-b29f806b157e)
+- [React Hooks Tutorial - 18 - useReducer Hook](https://www.youtube.com/watch?v=cVYp4u1m6iA)
+- [A Visual Guide To React Mental Models by Obed Parlapiano](https://obedparla.com/code/a-visual-guide-to-react-mental-models/?fbclid=IwAR29m2M6NICx_HqFMbk-dVEZboxS-9aWPBVQkfAhPkuiH7cB6Hn8dT4xTvU)
+- [How To Use Async Await in React](https://www.valentinog.com/blog/await-react)
+- [A Firebase in React Tutorial for Beginners [2019] by Robin Wieruch](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial)
+
+Accessibility:
+
+- [How Web Accessibility Works](https://blog.segunolalive.com/posts/how-web-accessibility-works/)
+- [How I fixed accessibility on my website and how you can fix yours by Daniela](https://sericaia.me/blog/2020-06-08/how-i-fixed-accessibility-on-my-website-and-how-you-can-fix-yours)
+
+SQL:
+
+- [SQLZoo](https://sqlzoo.net/)
+
+Computer Science:
+
+- [Jwasham's Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Data Structures Easy to Advanced Course by Freecodecamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+  Design:
+
+- [Refactoringui.com](https://refactoringui.com/)
+- [Hackdesign.org](https://hackdesign.org/lessons)
+- [A Web Design Crash Course: From one non-designer to another](https://welearncode.com/web-design-crash-course/)
+- [material.io](https://material.io/)
+- [designcode.io](https://designcode.io/ui-design-for-developers)
+- [prototypr.io](https://prototypr.io/home/)
+- [Web Design for Non-Designers by NadiaUX](https://nadiaux.design/web-design-for-non-designers.html)
+- [Design tips by Steve Schoger](https://twitter.com/i/events/994601867987619840)
+
+Git:
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 
 ## Overview of Different Fields in Software Engineering
 
@@ -116,6 +177,7 @@ These are paid online resources I found monumental to my learning journey.
 - [Dissecting Front End Job Titles](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)
 - [The Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [The Front-End Checklist](https://frontendchecklist.io/)
 
 ## Blogs and Articles
 
@@ -129,6 +191,7 @@ These are paid online resources I found monumental to my learning journey.
 - [How I Became a Self-Taught Software Engineer at a Major Tech Company](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704)
 - [What I Learned by Transitioning from Backend to Frontend Development](https://blog.bitsrc.io/what-i-learned-by-transitioning-from-backend-to-frontend-development-2fc15ead30fe)
 - [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+- [The Flow of Knowledge in a Team (or Why I Dig Tickets)](https://healeycodes.com/the-flow-of-knowledge-in-an-engineering-team-or-why-I-dig-tickets/)
 
 ## GitHub Repos
 
@@ -155,7 +218,6 @@ These are paid online resources I found monumental to my learning journey.
 ## Tech Websites
 
 - [Techcrunch](https://techcrunch.com/startups/)
-- [Hacker News](https://news.ycombinator.com/)
 - [Indie Hackers](https://www.indiehackers.com/)
 
 ## Online Communities
@@ -289,6 +351,7 @@ Websites / Books for Coding Practice:
 - [Leetcode](https://leetcode.com/)
 - [Cracking the Coding Interview](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_3?crid=GRIW98JVWL8J&keywords=cracking+the+coding+interview&qid=1567581008&s=gateway&sprefix=cracking+the+%2Caps%2C217&sr=8-3)
 - [HackerRank](https://www.hackerrank.com/)
+- [Algoexpert](https://www.algoexpert.io/product)
 
 Practice Interviews:
 
@@ -308,6 +371,12 @@ General Guidance:
 - [The Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 - [Preparing for Top-Tier Engineering Interviews](https://www.linkedin.com/pulse/preparing-top-tier-engineering-interviews-matthew-clower/)
 - [Fullstackinterviewing.com](https://www.fullstackinterviewing.com)
+- [Most Popular Web Developer Interview Questions by Hatchways.io](https://hatchways.io/blog/most-popular-web-dev-interview-questions)
+- [What I Learned from Doing 60+ Technical Interviews in 30 Days by Udauak Obong-Eren](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
+
+System design:
+
+- [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 Data Structures and Algorithms Resources:
 
@@ -324,13 +393,18 @@ Front-end Resources:
 - [Cracking the Frontend Interview](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 - [The single source for preparing for a Frontend interview](https://github.com/Jobeir/front-end-interview-preparation-guide)
 - [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- [Javascript Questions](https://github.com/lydiahallie/javascript-questions/tree/master/en-EN)
+- [Javascript Questions by Lydia Hallie](https://github.com/lydiahallie/javascript-questions/tree/master/en-EN)
+- [Cheat Sheet for React Interview Questions 2020](https://medium.com/@stevenjinyi/study-sheet-for-react-interview-questions-2020-2fe25b8fa316)
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [Front-End Interviews by FrontendMasters](https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html)
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 Questions to ask at the end of your interview:
 
 - [Do you have any questions for me?](https://deniseyu.io/2020/02/04/interview-questions-to-ask.html)
 - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 - [KeyValues](https://www.keyvalues.com/)
+- [Questions I'm asking in interviews by Julia Evans](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 
 ## Resumes And Cover Letters
 
@@ -357,6 +431,11 @@ Job Boards:
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Vettery](https://www.vettery.com/)
 - [Triplebyte](https://triplebyte.com/)
+- [Underpin](https://jobs.underpin.company/)
+- [POCIT](https://www.pocitjobs.com/)
+- [Top Bay Area Startups That Are Hiring Right Now Spreadsheet](https://docs.google.com/spreadsheets/d/1DbQnH8uC--JDIAHVvDGOyjw9iY4ifilcONOPrjT6Iu4/htmlview?urp=gmail_link)
+- [Candor Who's freezing hiring from coronavirus](https://candor.co/hiring-freezes?fbclid=IwAR2ENbSncsg7CaZZYWtRqk1ogZNvcjhezyphV674Fx3Bhd_WzUfQGl0b620)
+- [💪The Ultimate COVID Job Resource Stack spreadsheet](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit?fbclid=IwAR0EEhPdFHAmg3TrXyFXwzuRQ45jF84qRDuqybrNsNhPYVIt5pH7fkCeoIk#gid=1484275757)
 
 GitHub Repos:
 
@@ -373,6 +452,14 @@ Talk to real people, find recruiter emails:
 - [10 questions I wish I’d asked more to turbocharge my career](https://medium.com/@joulee/10-questions-i-wish-id-asked-more-to-turbocharge-my-career-afad1b0fa501)
 - [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 - [Candidate Planet on Negotiation](https://www.youtube.com/c/CandidatePlanet)
+- [Gatsby Engineering Level Guide](https://docs.google.com/spreadsheets/d/11bLD1NcMy6qeJrM_9e56YYiiYrKd9Ae5ozRC1xdMLTE/edit#gid=0)
+- [A forty year career](https://lethain.com/forty-year-career/)
+- [The Product-Minded Software Engineer by Gergely Orosz](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [Learn faster! When and how to ask for help](https://codewithoutrules.com/2017/12/07/asking-for-help/)
+- [Every Public Engineering Career Ladder by swyx](https://www.swyx.io/writing/career-ladders/)
+- [Staff-plus interview processes by Will](https://lethain.com/staff-plus-interview-process/)
+- [DESIGNING A TECHNICAL INTERVIEW by Laurie](https://laurieontech.com/posts/interviews/)
+- [My Reading & Listening List by Gergely Orosz](https://blog.pragmaticengineer.com/my-reading-list/)
 
 ## About Me
 
