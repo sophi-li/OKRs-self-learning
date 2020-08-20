@@ -29,7 +29,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [What are OKRs?](#what-are-OKRs)
 - [Why use OKRs?](#why-use-OKRs)
 - [How to use it](#How-to-use-it)
-- [Online Curriculum for a Broad Programming Foundation](#Online-Curriculum-for-a-Broad-Programming-Foundation)
+- [Online Curriculum](#Online-Curriculum)
 - [Paid Online Learning Resources](#Paid-Online-Learning-Resources)
 - [Free Online Learning Resources](#Free-Online-Learning-Resources)
 - [Overview of Different Fields in Software Engineering](#Overview-of-Different-Fields-in-Software-Engineering)
@@ -74,7 +74,7 @@ Steps to determine your Objectives and Key Results:
 8. Reflect monthly and adjust OKRs as needed throughout the quarter. OKRs are not set in stone!
 9. Do a retrospective at the end of the quarter to apply learning to your next set of OKRs.
 
-## Online Curriculum for a Broad Programming Foundation
+## Online Curriculum
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Codecademy](https://www.codecademy.com/)
@@ -106,6 +106,7 @@ HTML & CSS:
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Grid Garden](https://cssgridgarden.com/)
 - [1-Line Layouts](https://1linelayouts.glitch.me/)
+- [Creating a simple form with Flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
 
 JavaScript:
 
@@ -126,7 +127,7 @@ JavaScript:
 
 React:
 
-- [React cheatsheet](https://devhints.io/react) -[Creating a simple form with Flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
+- [React cheatsheet](https://devhints.io/react)
 - [React Hooks with Firebase](https://blog.logrocket.com/react-hooks-with-firebase-firestore/?fbclid=IwAR0cZwvjwy6X8lX6f3XjAQVmO9NlM-oxs9p3Aj-kYWMKipLkPqFaUGhKcZQ)
 - [Dave Ceddia](https://daveceddia.com/archives/)
 - [Learn React on Scrimba](https://scrimba.com/p/p7P5Hd/cQ726Sr)
@@ -154,7 +155,7 @@ Computer Science:
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Data Structures Easy to Advanced Course by Freecodecamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
-  Design:
+Design:
 
 - [Refactoringui.com](https://refactoringui.com/)
 - [Hackdesign.org](https://hackdesign.org/lessons)
@@ -171,8 +172,8 @@ Git:
 
 ## Overview of Different Fields in Software Engineering
 
-- [Web Development in 2019 - A Practical Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) - 41 minute YouTube video
-- [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [Web Development in 2019 - A Practical Guide by Traversy Media](https://www.youtube.com/watch?v=UnTQVlqmDQ0)
+- [Front-end Handbook by Frontend Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [BaseCS](https://medium.com/basecs)
 - [Dissecting Front End Job Titles](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)
 - [The Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
@@ -235,7 +236,7 @@ Git:
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | Tania Rascia    | [Blog](https://www.taniarascia.com/blog/)                                                                                       | One of the best blogs with written tutorials       |
 | Dave Ceddia     | [Blog](https://daveceddia.com/)                                                                                                 | One of the best blogs with written React articles  |
-| Dan Abramov     | [Blog](https://overreacted.io/)                                                                                                 | Blog on React, JsavaScript, tech                   |
+| Dan Abramov     | [Blog](https://overreacted.io/)                                                                                                 | Blog on React, JavaScript, tech                    |
 | Veni            | [Twitter](https://twitter.com/venikunche)                                                                                       | Career Advice and Job Opps                         |
 | Denise Yu       | [Twitter](https://twitter.com/deniseyu21)                                                                                       | Art & tech                                         |
 | Maggie Appleton | [Twitter](https://twitter.com/Mappletons)                                                                                       | Visually explanations of programming topics        |
