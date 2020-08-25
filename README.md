@@ -378,6 +378,7 @@ General Guidance:
 - [Fullstackinterviewing.com](https://www.fullstackinterviewing.com)
 - [Most Popular Web Developer Interview Questions by Hatchways.io](https://hatchways.io/blog/most-popular-web-dev-interview-questions)
 - [What I Learned from Doing 60+ Technical Interviews in 30 Days by Udauak Obong-Eren](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
+- [Cockroach Labs Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process)
 
 System design:
 
