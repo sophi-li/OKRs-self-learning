@@ -1,6 +1,6 @@
 # OKRs for Self Learning
 
-[Click here to see Sophia's OKRs.](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816)
+[Click here to see Sophia's OKRs.](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit#gid=1028453904)
 
 This GitHub repository contains a lot of reources from Sophia's [self learning plan](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816) on launching a career in software engineering, Objectives and Key Results (OKRs) style.
 
@@ -20,7 +20,7 @@ To determine _objectives_, ask yourself, _"Where do you want to go?"_.
 
 To determine _key results_, ask yourself, _"How will I pace myself to see if I am getting there?"_.
 
-**While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=674888816) for my self learning journey on becoming a software engineer.**
+**While OKRs are typically used by organizations for strategic planning to create alignment between teams, I've adapted OKRs for [my own goal setting and tracking](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit#gid=1028453904) for my self learning journey on becoming a software engineer.**
 
 For more information on OKRs, here's [Google's guide on OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), an easy to read and comprehensive overview of how to create and use OKRs.
 
@@ -59,7 +59,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 ## How to use it
 
-Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit?pli=1#gid=0) as a template for your own self study plan.
+Feel free to use [my OKRs spreadsheet](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit#gid=1028453904) as a template for your own self study plan.
 
 Steps to determine your Objectives and Key Results:
 
