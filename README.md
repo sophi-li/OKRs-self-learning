@@ -189,7 +189,6 @@ Git:
 - [5 Free Tutorials You Should Complete to Master the Back-End](https://dev.to/saeeddev/5-free-tutorials-you-should-complete-to-master-the-back-end-3077)
 - [Advice From a Hiring Manager to a Code Bootcamp Graduate](https://blog.usejournal.com/advice-from-a-hiring-manager-to-a-code-bootcamp-graduate-4d1036a7fa78)
 - [19 Tips For Software Engineers In 2019](https://emmawedekind.com/nineteen-tips-for-software-engineers-in-2019)
-- [How I Became a Self-Taught Software Engineer at a Major Tech Company](https://code.likeagirl.io/thoughts-on-becoming-a-self-taught-software-engineer-c8d8e7bde704)
 - [What I Learned by Transitioning from Backend to Frontend Development](https://blog.bitsrc.io/what-i-learned-by-transitioning-from-backend-to-frontend-development-2fc15ead30fe)
 - [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 - [The Flow of Knowledge in a Team (or Why I Dig Tickets)](https://healeycodes.com/the-flow-of-knowledge-in-an-engineering-team-or-why-I-dig-tickets/)
