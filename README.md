@@ -192,6 +192,7 @@ Git:
 - [What I Learned by Transitioning from Backend to Frontend Development](https://blog.bitsrc.io/what-i-learned-by-transitioning-from-backend-to-frontend-development-2fc15ead30fe)
 - [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 - [The Flow of Knowledge in a Team (or Why I Dig Tickets)](https://healeycodes.com/the-flow-of-knowledge-in-an-engineering-team-or-why-I-dig-tickets/)
+- [Developer Blogs I Follow](https://sophiali.dev/developer-blogs)
 
 ## GitHub Repos
 
@@ -248,7 +249,6 @@ Git:
 | Lydia Hallie    | [DEV](https://dev.to/lydiahallie)                                                                                               | JavaScript concepts visualized                     |
 | Traversy Media  | [Youtube](https://www.youtube.com/user/TechGuyWeb)                                                                              | Short and clear tutorials                          |
 | Mayuko          | [YouTube](https://www.youtube.com/user/hellomayuko)                                                                             | Life in tech                                       |
-| Code Drip       | [Youtube](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)                                                             | Getting into tech & tutorials                      |
 | WesBos          | [YouTube](https://www.youtube.com/user/wesbos)                                                                                  | Tutorials                                          |
 | Gaurav Sen      | [Youtube](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)                                  | System Design                                      |
 | Colt Steele     | [Youtube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)                                                             | Clear JavaScript tutorials and explanations        |
