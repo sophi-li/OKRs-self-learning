@@ -297,7 +297,37 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Question about something specific to them (based off of your research about them / their company)
 - Is there anything I can support you in?
 
-Here's a [blog](https://dev.to/sophia_wyl/top-10-tips-for-self-taught-software-engineers-from-20-coffee-chats-23o1) of tips I got from coffee chats.
+## Tips 
+These are the top 10 tips for self-taught software engineers from 20+ coffee chats:
+1. Build projects, any projects.
+Get out of tutorial hell, especially in the early stages of your learning. Once you've built a couple of mini projects, apply your knowledge to solve a problem that's interesting to you.
+
+2. Document your projects well.
+Recruiters and hiring managers will look at your projects. Write good documentation to help them quickly understand what you’ve built, why you built it, and how you built it. Here’s a guide on writing a thorough readme.
+
+3. Pair program.
+Practice collaborating with other developers, explaining your thought process out loud, and speaking technically. This will help prepare you for interviews and real world work.
+
+4. Build a community.
+Go to local meetups and conferences to meet people in the industry who you can learn from and also learn with.
+
+5. Teach others.
+You learn better by teaching others. Teaching a concept, even if you're not an expert, is a great way to identify gaps in your own knowledge, test your understanding, and deepen your understanding of the topic.
+
+6. Stand out.
+There is a sea of junior developers. Show your personality and how your unique perspective will bring value to the team.
+
+7. Determine the right type of role for you.
+Do you need structure? Can you create structure out of chaos? Is mentorship a strong requirement for you? Can you dive right into the weeds without structured support? These are some questions to reflect on to help determine if you should look for an internship, apprenticeship, or a full-time job.
+
+8. Understand your "why".
+Why do you want to be a software engineer? Your answer to this question will be your North Star. Your North Star is what’s going to guide you and keep you motivated even when you face rough patches.
+
+9. Hustle!
+Being a self-taught developer can be hard. Imposter syndrome is real, but know that you can and you will move forward. You're going to go the extra mile to network, keep learning, and crush all the interviews.
+
+10. Take care of your mental health.
+Mental health is important. Schedule time each week to do at least one activity that brings you joy. Don't burn out.
 
 ## Reading List
 
