@@ -42,6 +42,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Mailing Lists and Newsletters](#Mailing-Lists-and-Newsletters)
 - [Conferences and Events](#Conferences-and-Events)
 - [Questions for Coffee Chats](#Questions-for-Coffee-Chats)
+- [Tips](#Tips)
 - [Projects](#Projects)
 - [Contributing to Open Source Projects](#Contributing-to-Open-Source-Projects)
 - [Productivity Practices](#Productivity-Practices)
