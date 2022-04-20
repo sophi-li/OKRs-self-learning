@@ -2,7 +2,7 @@
 
 [Click here to see a template for OKRs.](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit#gid=1028453904)
 
-This GitHub repository contains a lot of reources from Sophia's self learning plan on launching a career in software engineering, Objectives and Key Results (OKRs) style.
+This GitHub repository contains a lot of resources from Sophia's self learning plan on launching a career in software engineering, Objectives and Key Results (OKRs) style.
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development.
 
@@ -57,6 +57,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 - Focus and accountability over three month increments.
 - OKRs are _not_ a task list. When designed right, ambitious OKRs help keep you motivated and track your progress.
+- OKRs are also a preferred business model for companies.
 
 ## How to use it
 
@@ -361,7 +362,7 @@ Work on projects with other developers:
 Push out of your comfort zone, get validation and/or feedback by contributing to an open source project.
 
 - [Beginner Friendly Open Source Projects](https://github.com/MunGell/awesome-for-beginners) - A list of beginner friendly projects.
-- [HacktberFest](https://hacktoberfest.digitalocean.com/faq/) - Sign up for HacktoberFest and get a free t-shirt after you submit 4 pull requests (PR) through GitHub in October.
+- [HacktoberFest](https://hacktoberfest.digitalocean.com/faq/) - Sign up for HacktoberFest and get a free t-shirt after you submit 4 pull requests (PR) through GitHub in October.
 - [First Timers Only](https://www.firsttimersonly.com/) - Friendly Open Source projects with specific issues reserved for newbies.
 - [Supporting Non-profits with FreeCodeCamp](https://www.freecodecamp.org/nonprofits/)
 - [Contribute to Techtonica's Curriculum](https://github.com/Techtonica/curriculum) - Techtonica is an apprenticeships with an open source curriculum you can contribute to.
@@ -472,6 +473,7 @@ Job Boards:
 - [Top Bay Area Startups That Are Hiring Right Now Spreadsheet](https://docs.google.com/spreadsheets/d/1DbQnH8uC--JDIAHVvDGOyjw9iY4ifilcONOPrjT6Iu4/htmlview?urp=gmail_link)
 - [Candor Who's freezing hiring from coronavirus](https://candor.co/hiring-freezes?fbclid=IwAR2ENbSncsg7CaZZYWtRqk1ogZNvcjhezyphV674Fx3Bhd_WzUfQGl0b620)
 - [💪The Ultimate COVID Job Resource Stack spreadsheet](https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit?fbclid=IwAR0EEhPdFHAmg3TrXyFXwzuRQ45jF84qRDuqybrNsNhPYVIt5pH7fkCeoIk#gid=1484275757)
+- [Indeed](https://www.indeed.com)
 
 GitHub Repos:
 
