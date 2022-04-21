@@ -57,7 +57,6 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 
 - Focus and accountability over three month increments.
 - OKRs are _not_ a task list. When designed right, ambitious OKRs help keep you motivated and track your progress.
-- OKRs are also a preferred business model for companies.
 
 ## How to use it
 
