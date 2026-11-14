@@ -412,7 +412,7 @@ General Guidance:
 
 System design:
 
-- [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the system design interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
 Data Structures and Algorithms Resources:
 
