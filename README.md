@@ -392,6 +392,7 @@ Practice Interviews:
 
 - [Pramp](https://www.pramp.com/dashboard#/)
 - [Interviewing.io](https://interviewing.io/)
+- [Aethel](https://aethel.pro/practice) - Free AI interview practice for developers, no account needed.
 
 General Guidance:
 
